@@ -1,0 +1,26 @@
+---
+title: "Module 4: Translational omics and precision health"
+author: "Wen Zhong"
+date: today
+---
+
+::: {.callout-tip}
+
+### Summary
+In this module we will present some of the applications of translational omics research, with particular focus on precision health.
+:::
+
+## Morning lecture
+The lecture will cover some of the applications of multi-omics analysis, drawing examples from the literature, such as:
+
+- Biomarker discovery.
+- Population health and precision health.
+- Drug discovery and development.
+
+## Seminar
+The students will be given a paper on the topic of the module to read, that will be discussed during the seminar.
+
+
+## Contributors
+
+- John Doe <a href="https://orcid.org/0009-XXXX" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>

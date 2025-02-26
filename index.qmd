@@ -1,6 +1,6 @@
 ---
 title: "Course Syllabus"
-author: "John Doe"
+author: "Wen Zhong"
 date: today
 ---
 
@@ -8,53 +8,83 @@ date: today
 
 ## About
 
-**Organizers:** 	                SciLifeLab  
-**Date:**	   	                    Month, date, year  
-**Location:**		 			    SciLifeLab Solna, Air&Fire  
-**Suggested number of credits:** 	X hp  
-**Enrollment opens:**				Month day, year  
-**Enrollment closes:**				Month day, year     
+**Organizers:** 	                SciLifeLab and Linköping University  
+**Date:**	   	                   October, 2025 (week 41 and 1 day on week 44) 
+**Location:**		 			    Linköping University (Campus US) and Zoom
+**Suggested number of credits:** 	4.5 hp  
+**Enrollment opens:**				Month day, 2025  
+**Enrollment closes:**				Month day, 2025     
 **Course fee:**				        XX   
 
 :::
 
-Course lead: John Doe (SciLifeLab) <a href="https://orcid.org/0000-XXXX" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+Course lead: Wen Zhong (SciLifeLab, DDLS fellow, LiU) <a href="https://orcid.org/0000-0002-7422-6104" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 
-Course contact: john.doe@scilifelab.se
+Course contact: wen.zhong@scilifelab.se
+
+Registration form: XXX
 
 ## Course description
 
-Short description of the course
+"Omics and Data-Driven Precision Health" is an interdisciplinary course that bridges the gap between artificial intelligence (AI) and precision health, focusing on the application of AI and machine learning technologies that are transforming personalized healthcare.
+
+## Course content
+The course content includes introductions to omics technologies and an overview of core AI and ML principles, such as supervised and unsupervised learning, neural networks, and deep learning. Additionally, the applications of AI and ML in multi-omics analysis for disease diagnostics and treatment optimization will be discussed.
+
+#### Topics covered:
+
+- **Introduction to Omics Technologies:** Overview of the omics field and the development of omics technologies.
+- **Principles of AI, ML, and Network Analysis:** Fundamental techniques and applications in AI and ML.
+- **Translational Omics and Precision Health:** Focus on biomarkers and their role in precision health.
+- **Applications of AI in Healthcare:** Examples of how AI can support diagnosis and treatment.
+- **Ethical, Legal, and Social Aspects:** Discussion on ethical issues related to AI use in healthcare, including privacy and equality.
+- **Practical Project and Data Analysis:** Hands-on experience through a group-based project involving omics data analysis.
+
 
 ## Learning Objectives and Learning Outcomes
-#### Learning Objectives
 
-- To get acquainted with...
-- To be able to...
+Upon completing the course, students are expected to achieve the following:
 
-#### Learning Outcomes
+#### Knowledge and understanding
 
-By the end of this course, learners will be able to:
+- Describe the principles of AI applied to precision health and identify the challenges in healthcare that these technologies aim to address.
+- Explain the roles of AI technologies in analyzing biomedical data for disease diagnostics, treatment optimization, and the development of personalized healthcare solutions.
+- Understand and distinguish the capabilities and limitations of various AI and machine learning (ML) methods in the context of precision health, including supervised and unsupervised learning, neural networks, and deep learning.
+- Explain the significance of multi-omics analysis in precision health and how AI technologies facilitate the interpretation of complex biological information.
 
-- Name...
-- Describe...
+
+#### Skills and Abilities
+
+- Utilize advanced methods for integrating multi-omics data.
+- Apply AI and ML methods to solve problems in precision medicine.
+- Analyze and interpret biomedical data using AI-driven methods.
+
+
+#### Critical Thinking and Approach
+
+- Demonstrate a critical approach when selecting and applying AI and ML methods in biomedical research to ensure the reliability and validity of results.
+- Discuss the ethical, legal, and social implications of using AI in healthcare, with a focus on privacy, data security, and equitable access to medical innovations.
+
 
 ## Target audience and course prerequisites
 
-**Target audience:** XXX    
-**Course prerequisites:** none   
-**Level:** beginner/intermediate  
+**Target audience:** This course is designed for PhD students, postdocs, and researchers with an interest in omics technologies and explores how different omics fields contribute to strategies for personalized healthcare.
+**Course prerequisites:** none
+**Level:** beginner/intermediate
 
 
 ## Forms of instruction and examination  
 
-**Forms of instruction:** In-person, digital communications  
-**Forms of study:** self-studies (incl. independent work), group activities, lectures, and discussion seminars  
+**Forms of instruction:** In-person (week 41), Online (week 44)
+**Forms of study:** Lectures, workshops, seminars, data project
 **Language:** English    
-**Examination:** Active participation in all sessions and group assignments.   
-
+**Examination:** The course assessment consists of individual written assignments, a mandatory group project with an oral presentation, and active participation in seminars. Attendance at the presentation session is required for a passing grade. Students who do not achieve a passing grade will be given one opportunity for re-examination shortly after the course ends. Additional examination opportunities will be available during future course offerings. The scope of the re-examination will be the same as that of the original examination.
+**Grading Scale:** Pass or Fail
 
 
 ## Additional notes  
 
-- Other useful information  
+- This course is highly interactive and hence it is important that you, as a participant, actively contribute to all sessions and elements of the course.
+- Basic knowledge of R or Python
+- Participants need to bring a laptop
+

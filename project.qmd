@@ -1,0 +1,13 @@
+---
+title: "Hands-on project and data analysis"
+author: "Wen Zhong"
+date: today
+---
+
+The students will be randomly divided into groups of approximately 4 people.
+For this project, the students will be given a synthetic multi-omics dataset; the objective is to perform data integration analyses and to present the results during an oral presentation (tentative date: 30rd October 2025).
+
+
+## Contributors
+
+- John Doe <a href="https://orcid.org/0009-XXXX" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>

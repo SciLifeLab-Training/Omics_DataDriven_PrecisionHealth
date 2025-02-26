@@ -1,0 +1,42 @@
+---
+title: "Module 3: Principles of artificial intelligence, machine learning and network analysis"
+author: "Wen Zhong"
+date: today
+---
+
+::: {.callout-tip}
+### Summary
+A massive number of tools are available for bioinformatic analyses.
+In this module we will guide the students across the most important categories of analyses that can be performed.
+We will look at classical tools, e.g. linear regression, as well as more recent approaches, e.g. neural networks.
+After this module, the students will:
+
+- Have an overview of the different types of analyses that concern omic data.
+- Be able to perform these analyses on their data.
+:::
+
+## Morning lecture
+The lecture will cover a broad spectrum of analyses that can be performed, such as:
+
+- High-dimensionality reduction techniques.
+- Clustering: supervised and unsupervised.
+- Regression
+- Reinforcement machine learning 
+- Network analysis
+- Generative AI, transfer learning and explainable AI
+During this lecture, we will present what goals we can achieve with these tools, together with their limitations.
+
+## Afternoon workshop
+During the workshop, we will present the main R/Python packages that can be used to perform the analyses discussed during the lectures.
+Examples with code will be provided.
+
+## Seminar
+The students will be given a paper on the topic of the module to read, that will be discussed during the seminar.
+Active partcipation during the seminar is a requirement to pass.
+
+## Materials
+A markdown tutorial will be provided before the tutorial.
+
+## Contributors
+
+- John Doe <a href="https://orcid.org/0009-XXXX" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>

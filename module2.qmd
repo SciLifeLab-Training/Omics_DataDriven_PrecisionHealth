@@ -1,21 +1,31 @@
 ---
-title: "Module 2"
-author: "John Doe"
+title: "Module 2: Omics integration"
+author: "Wen Zhong"
 date: today
 ---
 
 ::: {.callout-tip}
-### Learning Objectives
 
-By the end of this session, learners will be able to:
+### Summary
+Analyzing paired omics generated from the same biological samples promises to give a more holistic view of the biological processes.
+However, there remain several practical questions on how to integrate multi-omics effectively. 
+In this module we will present what strategies are currently used by researchers for this purpose.
+After this module, the students will:
 
-- List...
-- Define...
+- Know what are the advantages of multi-omics approaches.
+- Be able to implement state-of-the-art analyses for multi-omics integration.
 :::
 
-## Lectures and Materials
+## Morning lecture
+In the lecture we will discuss the advantages of multi-omics data; positive examples from the literature will be shown to highlight the potential benefits.
+We will present multiple strategies that have been successfully adopted by researchers to integrate multi-omics data.
+Pitfalls and open questions regarding multi-omics integration will also be discussed.
 
-Links to video recordings and session material
+## Afternoon workshop
+In this workshop we will take a look at available tools for multi-omics integration as well as versatile analysis strategies that can be used for multiple multi-omics.
+
+## Materials
+A markdown tutorial will be uploaded before the workshop.
 
 
 ## Contributors
