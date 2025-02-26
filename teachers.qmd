@@ -4,7 +4,7 @@ date: today
 ---
 
 
-#### Wen Zhong [![ORCID](img/ORCID_Logomark.png){width=20 height=20}]https://orcid.org/0000-0002-7422-6104) [![LinkedIn](img/Linkedin.png){width=20 height=20}](https://www.linkedin.com/in/inekeluijten/?originalSubdomain=se) [![GitHub](img/Github.png){width=20 height=20}](https://github.com/InekeL)  
+#### Wen Zhong [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0002-7422-6104) 
 
 ##### Assistant Professor, Linköping, Department of Biomedical and Clinical Sciences (BKV) 
 
@@ -19,8 +19,7 @@ The aim is to investigate the molecular biomarkers for the estimation of disease
 :::
 
 
-#### Jing Wang [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0002-9272-5628) [![LinkedIn](img/Linkedin.png){width=20 height=20}](https://www.linkedin.com/in/inekeluijten/?originalSubdomain=se) [![GitHub](img/Github.png){width=20 height=20}](https://github.com/InekeL)  
-
+#### Jing Wang [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0002-9272-5628)
 ##### Postdoctoral researcher, Linköping, Department of Biomedical and Clinical Sciences (BKV)
 
 ::: {.grid}
@@ -28,12 +27,12 @@ The aim is to investigate the molecular biomarkers for the estimation of disease
 ![](img/john-doe.png){width=80}
 :::
 ::: {.g-col-10}
-Jing Wang is ...
+
 :::
 :::
 
 
-#### Alberto Zenere [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0001-5791-7686) [![LinkedIn](img/Linkedin.png){width=20 height=20}](https://www.linkedin.com/in/inekeluijten/?originalSubdomain=se) [![GitHub](img/Github.png){width=20 height=20}](https://github.com/InekeL)  
+#### Alberto Zenere [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0001-5791-7686)
 
 ##### Postodoctoral researcher, Linköping, Department of Biomedical and Clinical Sciences (BKV)
 
@@ -42,12 +41,12 @@ Jing Wang is ...
 ![](img/john-doe.png){width=80}
 :::
 ::: {.g-col-10}
-Alberto Zenere is ...
+
 :::
 :::
 
 
-#### Xiangyu Qiao [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0009-0007-9515-6241) [![LinkedIn](img/Linkedin.png){width=20 height=20}](https://www.linkedin.com/in/inekeluijten/?originalSubdomain=se) [![GitHub](img/Github.png){width=20 height=20}](https://github.com/InekeL)  
+#### Xiangyu Qiao [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0009-0007-9515-6241)
 
 ##### Postodoctoral researcher, Linköping, Department of Biomedical and Clinical Sciences (BKV) 
 
@@ -56,12 +55,12 @@ Alberto Zenere is ...
 ![](img/john-doe.png){width=80}
 :::
 ::: {.g-col-10}
-Xiangyu Qiao is ...
+
 :::
 :::
 
 
-#### Xingyue Wang [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0002-4960-5882) [![LinkedIn](img/Linkedin.png){width=20 height=20}](https://www.linkedin.com/in/inekeluijten/?originalSubdomain=se) [![GitHub](img/Github.png){width=20 height=20}](https://github.com/InekeL)  
+#### Xingyue Wang [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0002-4960-5882)
 
 ##### PhD student, Linköping, Department of Biomedical and Clinical Sciences (BKV) 
 
@@ -70,12 +69,12 @@ Xiangyu Qiao is ...
 ![](img/john-doe.png){width=80}
 :::
 ::: {.g-col-10}
-Xingyue Wang is ...
+
 :::
 :::
 
 
-#### Swapnali Barde [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0003-1452-4465) [![LinkedIn](img/Linkedin.png){width=20 height=20}](https://www.linkedin.com/in/inekeluijten/?originalSubdomain=se) [![GitHub](img/Github.png){width=20 height=20}](https://github.com/InekeL)  
+#### Swapnali Barde [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0003-1452-4465)
 
 ##### Postodoctoral researcher, Linköping, Department of Biomedical and Clinical Sciences (BKV) 
 
@@ -84,6 +83,6 @@ Xingyue Wang is ...
 ![](img/john-doe.png){width=80}
 :::
 ::: {.g-col-10}
-Swapnali Barde is ...
+
 :::
 :::
