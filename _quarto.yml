@@ -17,7 +17,7 @@ website:
     contents: 
       - index.qmd 
       - schedule.qmd
-      - instructors.qmd
+      - teachers.qmd
       - module1.qmd
       - module2.qmd
       - module3.qmd
