@@ -17,7 +17,6 @@ website:
     contents: 
       - index.qmd 
       - schedule.qmd
-      - teachers.qmd
       - module1.qmd
       - module2.qmd
       - module3.qmd
@@ -25,6 +24,7 @@ website:
       - module5.qmd
       - module6.qmd
       - project.qmd
+      - teachers.qmd
   navbar:
     background: "#A7C947"
     logo: "img/SciLifeLab_Logotype_NEG.png"
