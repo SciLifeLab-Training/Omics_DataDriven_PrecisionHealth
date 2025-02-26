@@ -8,13 +8,12 @@ date: today
 
 ## About
 
-**Organizers:** 	                SciLifeLab and Linköping University  
-**Date:**	   	                   October, 2025 (week 41 and 1 day on week 44) 
+**Organizers:** 	                Linköping University and SciLifeLab
+**Date:**	   	                   October, 2025 (week 41 and 1 day on week 44)
 **Location:**		 			    Linköping University (Campus US) and Zoom
 **Suggested number of credits:** 	4.5 hp  
-**Enrollment opens:**				Month day, 2025  
-**Enrollment closes:**				Month day, 2025     
-**Course fee:**				        XX   
+**Enrollment opens:**				February, 2025  
+**Enrollment closes:**				TBA       
 
 :::
 
@@ -22,7 +21,6 @@ Course lead: Wen Zhong (SciLifeLab, DDLS fellow, LiU) <a href="https://orcid.org
 
 Course contact: wen.zhong@scilifelab.se
 
-Registration form: XXX
 
 ## Course description
 
