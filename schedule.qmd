@@ -18,8 +18,8 @@ date: today
 | October 8 2025 | 13:00 - 16:00 | Campus US, Linköping | [Module 3](module3.qmd): Workshop |
 | October 9 2025 | 09:00 - 12:00 | Campus US, Linköping | [Module 4](module4.qmd): Lectures |
 | October 9 2025 | 13:00 - 16:00 | Campus US, Linköping | [Module 4](module4.qmd): Seminar |
-| October 10 2025 | 13:00 - 16:00 | Campus US, Linköping | [Module 4](module4.qmd): Lectures |
-| October 10 2025 | 13:00 - 16:00 | Campus US, Linköping | [Module 4](module4.qmd): Group discussion & feedback session |
+| October 10 2025 | 13:00 - 16:00 | Campus US, Linköping | [Module 5](module5.qmd), [Module 6](module6.qmd): Lectures |
+| October 10 2025 | 13:00 - 16:00 | Campus US, Linköping | Group discussion & feedback session |
 : {tbl-colwidths="[25,75]"} 
 
 <br/>
