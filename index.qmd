@@ -8,9 +8,9 @@ date: today
 
 ## About
 
-**Organizers:** 	                Linköping University and SciLifeLab
-**Date:**	   	                   October, 2025 (week 41 and 1 day on week 44)
-**Location:**		 			    Linköping University (Campus US) and Zoom
+**Organizers:** 	                Linköping University and SciLifeLab  
+**Date:**	   	                   October, 2025 (week 41 and 1 day on week 44)  
+**Location:**		 			    Linköping University (Campus US) and Zoom  
 **Suggested number of credits:** 	4.5 hp  
 **Enrollment opens:**				February, 2025  
 **Enrollment closes:**				TBA       
@@ -66,18 +66,18 @@ Upon completing the course, students are expected to achieve the following:
 
 ## Target audience and course prerequisites
 
-**Target audience:** This course is designed for PhD students, postdocs, and researchers with an interest in omics technologies and explores how different omics fields contribute to strategies for personalized healthcare.
-**Course prerequisites:** none
-**Level:** beginner/intermediate
+**Target audience:** This course is designed for PhD students, postdocs, and researchers with an interest in omics technologies and explores how different omics fields contribute to strategies for personalized healthcare.  
+**Course prerequisites:** none  
+**Level:** beginner/intermediate  
 
 
 ## Forms of instruction and examination  
 
-**Forms of instruction:** In-person (week 41), Online (week 44)
-**Forms of study:** Lectures, workshops, seminars, data project
-**Language:** English    
-**Examination:** The course assessment consists of individual written assignments, a mandatory group project with an oral presentation, and active participation in seminars. Attendance at the presentation session is required for a passing grade. Students who do not achieve a passing grade will be given one opportunity for re-examination shortly after the course ends. Additional examination opportunities will be available during future course offerings. The scope of the re-examination will be the same as that of the original examination.
-**Grading Scale:** Pass or Fail
+**Forms of instruction:** In-person (week 41), Online (week 44)  
+**Forms of study:** Lectures, workshops, seminars, data project  
+**Language:** English      
+**Examination:** The course assessment consists of individual written assignments, a mandatory group project with an oral presentation, and active participation in seminars. Attendance at the presentation session is required for a passing grade. Students who do not achieve a passing grade will be given one opportunity for re-examination shortly after the course ends. Additional examination opportunities will be available during future course offerings. The scope of the re-examination will be the same as that of the original examination.  
+**Grading Scale:** Pass or Fail  
 
 
 ## Additional notes  
