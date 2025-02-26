@@ -6,8 +6,6 @@ date: today
 
 <br>
 
-##### Date
-
 | Date | Time | Location | Session |
 |------|------|------|------|
 | October 6 2025 | 09:00 - 12:00 | Campus US, Linköping | [Module 1](module1.qmd): Lectures |
