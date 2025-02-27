@@ -23,4 +23,5 @@ The students will be given a paper on the topic of the module to read, that will
 
 ## Contributors
 
-- John Doe <a href="https://orcid.org/0009-XXXX" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+- Wen Zhong <a href="https://orcid.org/0000-0002-7422-6104" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+- Swapnali Barde <a href="https:/https://orcid.org/0000-0003-1452-4465" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
