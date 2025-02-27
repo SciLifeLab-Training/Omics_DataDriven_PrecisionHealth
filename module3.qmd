@@ -16,7 +16,7 @@ After this module, the students will:
 :::
 
 ## Morning lecture
-The lecture will cover a broad spectrum of analyses that can be performed, such as:
+The lecture will cover a broad spectrum of analyses applicable to multi-omics data, such as:
 
 - High-dimensionality reduction techniques.
 - Clustering: supervised and unsupervised.
@@ -27,7 +27,7 @@ The lecture will cover a broad spectrum of analyses that can be performed, such 
 During this lecture, we will present what goals we can achieve with these tools, together with their limitations.
 
 ## Afternoon workshop
-During the workshop, we will present the main R/Python packages that can be used to perform the analyses discussed during the lectures.
+During the workshop, we will present the main R/Python packages that can be used to perform the main analyses discussed during the lectures.
 Examples with code will be provided.
 
 ## Seminar
