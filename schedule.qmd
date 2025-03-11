@@ -22,7 +22,7 @@ date: today
 |------|------|------|------|
 | October 10 2025 | 9:00 - 12:00 | Campus US, Linköping | [Module 5](module5.qmd), [Module 6](module6.qmd): Lectures <br> 8. AI in Clinical & Digital Health <br> 9. Innovations with AI & Omics |
 | October 10 2025 | 13:00 - 16:00 | Campus US, Linköping | Group Discussion & Feedback Session |
-: {tbl-colwidths="[30,70]"} 
+: {tbl-colwidths="[20,20,20,40]"} 
 
 <br/>
      
