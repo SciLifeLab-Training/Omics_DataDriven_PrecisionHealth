@@ -4,8 +4,8 @@ project:
 
 # several branches can be specified here
 branches:
-  - branch: "release-2510"     # change this to the release branch
-    output-dir: "2510"         # change this to year and month of the course instance
+  - branch: "release-2504"     # change this to the release branch
+    output-dir: "2504"         # change this to year and month of the course instance
 
 website:
   title: "Omics and data driven precision health"
@@ -17,14 +17,6 @@ website:
     contents: 
       - index.qmd 
       - schedule.qmd
-      - module1.qmd
-      - module2.qmd
-      - module3.qmd
-      - module4.qmd
-      - module5.qmd
-      - module6.qmd
-      - project.qmd
-      - teachers.qmd
   navbar:
     background: "#A7C947"
     logo: "img/SciLifeLab_Logotype_NEG.png"
