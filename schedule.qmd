@@ -8,19 +8,19 @@ date: today
 
 | Date | Time | Location | Session |
 |------|------|------|------|
-| October 6 2025 | 09:00 - 12:00 | Campus US, Linköping | [Module 1](module1.qmd): Lectures <br> 1. Omics technologies & trends <br> 2. Omics in Precision Health |
-| October 6 2025 | 13:00 - 16:00 | Campus US, Linköping | [Module 1](module1.qmd): Workshop 1 <br> Omics data processing and visualization|
+| October 6 2025 | 09:00 - 12:00 | Campus US, Linköping | Module 1: Lectures <br> 1. Omics technologies & trends <br> 2. Omics in Precision Health |
+| October 6 2025 | 13:00 - 16:00 | Campus US, Linköping | Module 1: Workshop 1 <br> Omics data processing and visualization|
 |------|------|------|------|
-| October 7 2025 | 09:00 - 12:00 | Campus US, Linköping | [Module 2](module2.qmd): Lectures <br> 3. Integrative multi-omics <br> 4. Computational approaches for multi-omics integration |
-| October 7 2025 | 13:00 - 16:00 | Campus US, Linköping | [Module 2](module2.qmd): Workshop 2 <br> Multi-omics integration and feature selection|
+| October 7 2025 | 09:00 - 12:00 | Campus US, Linköping | Module 2: Lectures <br> 3. Integrative multi-omics <br> 4. Computational approaches for multi-omics integration |
+| October 7 2025 | 13:00 - 16:00 | Campus US, Linköping | Module 2: Workshop 2 <br> Multi-omics integration and feature selection|
 |------|------|------|------|
-| October 8 2025 | 09:00 - 12:00 | Campus US, Linköping | [Module 3](module3.qmd): Lectures <br> 5. Principles for core AI & ML techniques <br> 6. Generative AI for Omics analysis |
-| October 8 2025 | 13:00 - 16:00 | Campus US, Linköping | [Module 3](module3.qmd): Workshop 3 <br> AI models for omics analysis|
+| October 8 2025 | 09:00 - 12:00 | Campus US, Linköping | Module 3: Lectures <br> 5. Principles for core AI & ML techniques <br> 6. Generative AI for Omics analysis |
+| October 8 2025 | 13:00 - 16:00 | Campus US, Linköping | Module 3: Workshop 3 <br> AI models for omics analysis|
 |------|------|------|------|
-| October 9 2025 | 09:00 - 12:00 | Campus US, Linköping | [Module 4](module4.qmd): Lectures <br> 7. Translational Omics & AI research in precision health |
-| October 9 2025 | 13:00 - 16:00 | Campus US, Linköping | [Module 4](module4.qmd): Seminar <br> AI in Translational Research |
+| October 9 2025 | 09:00 - 12:00 | Campus US, Linköping | Module 4: Lectures <br> 7. Translational Omics & AI research in precision health |
+| October 9 2025 | 13:00 - 16:00 | Campus US, Linköping | Module 4: Seminar <br> AI in Translational Research |
 |------|------|------|------|
-| October 10 2025 | 9:00 - 12:00 | Campus US, Linköping | [Module 5](module5.qmd), [Module 6](module6.qmd): Lectures <br> 8. AI in Clinical & Digital Health <br> 9. Innovations with AI & Omics |
+| October 10 2025 | 9:00 - 12:00 | Campus US, Linköping | Module 5, Module 6: Lectures <br> 8. AI in Clinical & Digital Health <br> 9. Innovations with AI & Omics |
 | October 10 2025 | 13:00 - 16:00 | Campus US, Linköping | Group Discussion & Feedback Session |
 : {tbl-colwidths="[20,20,20,40]"} 
 
