@@ -8,11 +8,11 @@ date: today
 
 ## About
 
-**Organizers:** 	                Linköping University and SciLifeLab  
-**Start date:**	   	                   October 6, 2025
-**End date:**	   	                   October 31, 2025 
-**Format:**	   	                   In-person (week 41), Online (Friday in week 44 ) 
-**Duration:**	   	                   One week intensive course, a two-week data project
+**Organizers:** 	                Linköping University and SciLifeLab Training Hub  
+**Start date:**	   	                   October 6, 2025  
+**End date:**	   	                   October 31, 2025  
+**Format:**	   	                   In-person (week 41), Online (Friday in week 44 )  
+**Duration:**	   	                   One week intensive course, a two-week data project  
 **Location:**		 			    Linköping University (Campus US) and Zoom  
 **Suggested number of credits:** 	4.5 hp  
 **Enrollment opens:**				February, 2025  
@@ -22,7 +22,7 @@ date: today
 
 Course lead: Wen Zhong (SciLifeLab, DDLS fellow, LiU) <a href="https://orcid.org/0000-0002-7422-6104" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 
-Course contact: wen.zhong@scilifelab.se
+Course contact: wen.zhong@liu.se
 
 
 ## Course description
