@@ -26,7 +26,5 @@ date: today
 
 <br/>
 
-## Additional notes
-
 Additionally, participants will work in groups on a two-week data project and have an oral presentation on October 31, 2025, providing a practical opportunity to apply the concepts learned during the course.
 
