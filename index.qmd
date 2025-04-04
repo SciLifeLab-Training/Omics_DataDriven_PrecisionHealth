@@ -22,7 +22,7 @@ date: today
 
 Course lead: Wen Zhong (SciLifeLab, DDLS fellow, LiU) <a href="https://orcid.org/0000-0002-7422-6104" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 
-Course contact: wen.zhong@liu.se
+Course contact: wen.zhong@scilifelab.se
 
 
 ## Course description
