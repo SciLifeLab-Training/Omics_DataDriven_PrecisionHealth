@@ -18,17 +18,21 @@ date: today
 | October 7 2025 | 10:45 - 12:00 | Campus US, Linköping | Session 2. Integrative multi-omics | Lectures 2.2 Integrative multi-omics (Genomics, proteomics, metabolomics) | Alberto Zenere |
 | October 7 2025 | 13:00 - 14:00 | Campus US, Linköping | Workshop 2: Multi-omics integration and feature selection | Workshop 2.1: Single-cell multi-omics | Antonio Lentini |
 | October 7 2025 | 14:00 - 14:45 | Campus US, Linköping | Workshop 2: Multi-omics integration and feature selection | Workshop 2.2: General Approaches for integrative multi-omics | Alberto Zenere |
-| October 7 2025 | 14:50 - 16:00 | Campus US, Linköping | Workshop 2: Multi-omics integration and feature selection | Workshop 2.2: Integrative multi-omics (MOFA, shiny-WGCNA) | Xiangfu Zhong <br> Jyotirmoy Das |
+| October 7 2025 | 14:50 - 16:00 | Campus US, Linköping | Workshop 2: Multi-omics integration and feature selection | Workshop 2.3: Integrative multi-omics (MOFA, <br> shiny-WGCNA) | Xiangfu Zhong <br> Jyotirmoy Das |
 |------|------|------|------|------|------|
-| October 8 2025 | 09:00 - 12:00 | Campus US, Linköping | Module 3: Lectures <br> 5. Principles for core AI & ML techniques <br> 6. Generative AI for Omics analysis |
-| October 8 2025 | 13:00 - 16:00 | Campus US, Linköping | Module 3: Workshop 3 <br> AI models for omics analysis|
+| October 8 2025 | 09:00 - 10:30 | Campus US, Linköping | Session 3. AI & ML techniques in biomedical research | Lectures 3.1 Principles for core AI & ML techniques | Wen Zhong |
+| October 8 2025 | 10:45 - 12:00 | Campus US, Linköping | Session 3. AI & ML techniques in biomedical research | Lectures 3.2 Generative AI for Omics analysis | Wen Zhong |
+| October 8 2025 | 13:00 - 14:00 | Campus US, Linköping | Workshop 3: AI models for omics analysis | Workshop 3.1: Classical ML methods | Xingyue Wang |
+| October 8 2025 | 14:00 - 16:00 | Campus US, Linköping | Workshop 3: AI models for omics analysis | Workshop 3.2: Generative AI models for omics analysis | Xiangyu Qiao |
 |------|------|------|------|------|------|
-| October 9 2025 | 09:00 - 12:00 | Campus US, Linköping | Module 4: Lectures <br> 7. Translational Omics & AI research in precision health |
-| October 9 2025 | 13:00 - 16:00 | Campus US, Linköping | Module 4: Seminar <br> AI in Translational Research |
+| October 9 2025 | 09:00 - 10:30 | Campus US, Linköping | Session 4. Translational Omics & AI research in precision health | Lectures 4.1 AI4health introduction | Wen Zhong |
+| October 9 2025 | 10:45 - 12:00 | Campus US, Linköping | Session 4. Translational Omics & AI research in precision health | Lectures 4.2 Translational AI research | Mika Gustafsson |
+| October 9 2025 | 13:00 - 16:00 | Campus US, Linköping | Seminar: AI in Translational Research | Seminar: AI in Translational Research | Swapnali Barde |
 |------|------|------|------|------|------|
-| October 10 2025 | 9:00 - 12:00 | Campus US, Linköping | Module 5, Module 6: Lectures <br> 8. AI in Clinical & Digital Health <br> 9. Innovations with AI & Omics |
-| October 10 2025 | 13:00 - 16:00 | Campus US, Linköping | Group Discussion & Feedback Session |
-: {tbl-colwidths="[20,20,20,20,40,10]"} 
+| October 10 2025 | 09:00 - 10:30 | Campus US, Linköping | Session 5. Applications of AI in Clinical & Digital Health | Module 5.1 AI in Clinical & Digital Health | Wen Zhong |
+| October 10 2025 | 10:45 - 12:00 | Campus US, Linköping | Session 5. Applications of AI in Clinical & Digital Health | Module 5.2 Innovations with AI & Omics | Ali Moshfegh |
+| October 10 2025 | 13:00 - 16:00 | Campus US, Linköping | Group Discussion & Feedback Session | Group Discussion & Feedback Session | Alberto Zenere |
+: {tbl-colwidths="[10,10,10,20,40,10]"} 
 
 <br/>
 
