@@ -33,7 +33,7 @@ date: today
 | October 10, 2025 | 10:45 - 12:00 | Campus US, Linköping |  | Lectures 5.2: Innovations with AI & Omics |
 | October 10, 2025 | 13:00 - 16:00 | Campus US, Linköping | Group Discussion & Feedback Session | Group Discussion & Feedback Session |
 |------|------|------|------|------|------|
-| October 24 2025 | 09:00 - 16:00 | Online | Data project | Group presentation |
+| October 24, 2025 | 09:00 - 16:00 | Online | Data project | Group presentation |
 : {tbl-colwidths="[10,10,10,30,40]"} 
 
 <br/>
