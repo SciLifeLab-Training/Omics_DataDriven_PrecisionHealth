@@ -20,3 +20,30 @@ Check you can access and navigate each of the following web servers.
 - Shiny-WGCNA: https://shinywgcna.serve.scilifelab.se/
 - Google Colab: Some of the workshop exercises will be run on Google's Colab server. Therefore, you will need a Google account. If you don’t have one, please create an account before the course.
 - Once you have access to Google Colab: · Go through the provided guidelines. · Make a copy of the IPython Notebook to your Google Drive and run the code to test its functionality.
+
+## Software installation
+
+Some of the tasks in the workshops will be performed using local installations of R and Python.
+To install R (at least version 4) and Rstudio, follow these links: https://cran.r-project.org/ and https://posit.co/products/open-source/rstudio/?sid=1. 
+Both are free and should be straightforward to install.
+Once you have done that, open Rstudio, and install the following packages, that will be needed for the workshops. 
+- install.packages("dplyr")
+- install.packages("tidyverse”) ")
+- install.packages("ggplot2")
+- install.packages("umap")
+- install.packages("glmnet")
+- install.packages("igraph")
+- install.packages("vegan")
+- BiocManager::install("MOFA2")
+- BiocManager::install("MOFAdata")
+
+Then, at the start of the script, insert the following lines.
+pack_R <- c("dplyr","tidyverse","ggplot2","umap","glmnet","igraph","vegan","MOFA2","MOFAdata")
+for (i in 1:length(pack_R)) {
+  library(pack_R[i], character.only = TRUE)
+}
+
+Install Python (version 3 or more), and the following packages: numpy, pandas, h5py, scipy, argparse, sklearn, mofapy2
+
+
+
