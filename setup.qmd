@@ -20,7 +20,7 @@ Check you can access and navigate each of the following web servers:
 Familiarize yourself with the basic workflow of each application by reading the provided tutorial files. 
 Pay close attention to the specific data requirements for each tool, as they differ (e.g., a zipped folder for methylR versus separate CSV files for olinkWrapper and Shiny-WGCNA).
 
-- **Google Colab**: Some of the workshop exercises will be run on Google's Colab server (https://colab.research.google.com/). 
+- **Google Colab**: Some of the workshop exercises will be run on Google's Colab server [https://colab.research.google.com/](https://colab.research.google.com/). 
 Therefore, you will need a Google account. 
 If you don’t have one, please create an account before the course.
 Once you have access to Google Colab, go through the provided guidelines [https://colab.research.google.com/](https://colab.research.google.com/). 
@@ -31,13 +31,13 @@ Make a copy of the following IPython Notebook [https://colab.research.google.com
 
 Some of the tasks in the workshops will be performed using local installations of R and Python.
 
-- To install R (version 4 or more) and Rstudio, follow these links: https://cran.r-project.org/ and https://posit.co/products/open-source/rstudio/?sid=1. 
+- To install R (version 4 or more) and Rstudio, follow these links: [https://cran.r-project.org/](https://cran.r-project.org/) and [https://posit.co/products/open-source/rstudio/?sid=1](https://posit.co/products/open-source/rstudio/?sid=1). 
 Both are free and should be straightforward to install.
 - Once you have done that, open Rstudio, and install the following packages: dplyr, tidyverse, ggplot2, umap, glmnet, igraph, vegan, MOFA2, MOFAdata.
 - Install Python (version 3 or more), and the following packages: numpy, pandas, h5py, scipy, argparse, sklearn, mofapy2
 
 If you are new to R or Python, here are some guides to get started.
-- Beginner's Guide to R: [Open PDF](https://github.com/SciLifeLab-Training/Omics_DataDriven_PrecisionHealth/edit/release-2504/Introduction_to_R.pdf)
+- Beginner's Guide to R: [https://education.rstudio.com/learn/beginner/](https://education.rstudio.com/learn/beginner/)
 - Beginner's Guide to Python: [https://wiki.python.org/moin/BeginnersGuide](https://wiki.python.org/moin/BeginnersGuide)
 
 
@@ -48,8 +48,8 @@ We will not delve deep into the mathematical background of these techniques; ins
 
 - **A Summary of the Basic Machine Learning Models** 
 
-[https://towardsdatascience.com/a-summary-of-the-basic-machine-learning-models-e0a65627ecbe/](https://towardsdatascience.com/a-summary-of-the-basic-machine-learning-models-e0a65627ecbe/)
-Supervised Machine Learning [https://www.datacamp.com/blog/supervised-machine-learning](https://www.datacamp.com/blog/supervised-machine-learning)
+Basic machine learning methods: [https://towardsdatascience.com/a-summary-of-the-basic-machine-learning-models-e0a65627ecbe/](https://towardsdatascience.com/a-summary-of-the-basic-machine-learning-models-e0a65627ecbe/)
+Supervised Machine Learning: [https://www.datacamp.com/blog/supervised-machine-learning](https://www.datacamp.com/blog/supervised-machine-learning)
 <br>
 
 - **Principal component analysis (PCA)**
@@ -80,17 +80,16 @@ Partial least squares (pLS): [https://cran.r-project.org/web/packages/pls/vignet
 R package that implements CCA and pLS: [https://doi:10.1093/bioinformatics/btp515](https://doi:10.1093/bioinformatics/btp515), [https://mixomics.org/methods/spls/](https://mixomics.org/methods/spls/) 
 <br>
 
-- **Transformers**
-Transformers in single-cell omics [https://doi.org/10.1038/s41592-024-02353-z](https://doi.org/10.1038/s41592-024-02353-z) <br>
+- **Transformers in single-cell omics** [https://doi.org/10.1038/s41592-024-02353-z](https://doi.org/10.1038/s41592-024-02353-z) <br>
 
-- **Spatial transcriptomics**
-Spatial transcriptomics [https://doi.org/10.1101/2025.01.20.634005](https://doi.org/10.1101/2025.01.20.634005) <br>
+- **Spatial transcriptomics** [https://doi.org/10.1101/2025.01.20.634005](https://doi.org/10.1101/2025.01.20.634005) <br>
 
 
-- Moreover, here are some nice examples of studies that use multi-omics data in biomedical research. 
-Relatioship between different omics and health: [https://doi.org/10.1038/s41467-020-18148-7](https://doi.org/10.1038/s41467-020-18148-7) <br> 
-Multi-omics to better understand diseases: [https://doi.org/10.1016/j.tig.2022.08.005](https://doi.org/10.1016/j.tig.2022.08.005), [https://doi.org/10.1038/s10038-020-00842-5](https://doi.org/10.1038/s10038-020-00842-5) <br>
-Review of multiple multi-omics studies: [https://doi.org/10.1002/mco2.315](https://doi.org/10.1002/mco2.315)
+Moreover, here are some nice examples of studies that use multi-omics data in biomedical research. 
+
+- Relatioship between different omics and health: [https://doi.org/10.1038/s41467-020-18148-7](https://doi.org/10.1038/s41467-020-18148-7) <br> 
+- Multi-omics to better understand diseases: [https://doi.org/10.1016/j.tig.2022.08.005](https://doi.org/10.1016/j.tig.2022.08.005), [https://doi.org/10.1038/s10038-020-00842-5](https://doi.org/10.1038/s10038-020-00842-5) <br>
+- Review of multiple multi-omics studies: [https://doi.org/10.1002/mco2.315](https://doi.org/10.1002/mco2.315)
 
 
 
