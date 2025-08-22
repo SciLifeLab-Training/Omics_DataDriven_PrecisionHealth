@@ -1,0 +1,22 @@
+---
+title: "Getting ready for the course"
+author: "Wen Zhong"
+date: today
+---
+
+::: {.callout-warning icon=false}
+
+
+To perform the tasks of the workshops, you will need to bring your own laptop. 
+The software needed is compatible with all major operating systems, including Windows, MacOS, and Linux. 
+Although the tasks will not be particularly computational-intensive, 8 GB of RAM is recommended for optimal performance, especially when working with large datasets.
+
+## Web servers
+
+Part of the workshops will be web-based, they will not require any local installations, just ensure you have a modern web browser installed (e.g., Google Chrome, Firefox, Safari). 
+Check you can access and navigate each of the following web servers. 
+- olinkWrapper: https://olink-wrapper.serve.scilifelab.se/
+- methylR: https://methylr.serve.scilifelab.se/
+- Shiny-WGCNA: https://shinywgcna.serve.scilifelab.se/
+- Google Colab: Some of the workshop exercises will be run on Google's Colab server. Therefore, you will need a Google account. If you don’t have one, please create an account before the course.
+- Once you have access to Google Colab: · Go through the provided guidelines. · Make a copy of the IPython Notebook to your Google Drive and run the code to test its functionality.
