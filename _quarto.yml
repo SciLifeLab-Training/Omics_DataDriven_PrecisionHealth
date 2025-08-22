@@ -16,6 +16,7 @@ website:
     search: true
     contents: 
       - index.qmd 
+      - setup.qmd
       - schedule.qmd
   navbar:
     background: "#A7C947"
