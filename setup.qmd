@@ -39,7 +39,7 @@ Both are free and should be straightforward to install.
 - Install Python (version 3 or more), and the following packages: numpy, pandas, h5py, scipy, argparse, sklearn, mofapy2
 
 If you are new to R or Python, here are some guides to get started.
-- Beginner's Guide to R:
+- Beginner's Guide to R: [Open PDF](https://github.com/SciLifeLab-Training/Omics_DataDriven_PrecisionHealth/edit/release-2504/Introduction_to_R.pdf)
 - Beginner's Guide to Python: https://wiki.python.org/moin/BeginnersGuide
 
 
