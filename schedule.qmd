@@ -32,9 +32,11 @@ date: today
 | October 10 2025 | 09:00 - 10:30 | Campus US, Linköping | Session 5. Applications of AI in Clinical & Digital Health | Module 5.1 AI in Clinical & Digital Health | Wen Zhong |
 | October 10 2025 | 10:45 - 12:00 | Campus US, Linköping | Session 5. Applications of AI in Clinical & Digital Health | Module 5.2 Innovations with AI & Omics | Ali Moshfegh |
 | October 10 2025 | 13:00 - 16:00 | Campus US, Linköping | Group Discussion & Feedback Session | Group Discussion & Feedback Session | Alberto Zenere |
+|------|------|------|------|------|------|
+| October 24 2025 | 09:00 - 16:00 | Online | Data project | Group presentation | Wen Zhong |
 : {tbl-colwidths="[10,10,10,20,40,10]"} 
 
 <br/>
 
-Additionally, participants will work in groups on a two-week data project and have an oral presentation on October 31, 2025, providing a practical opportunity to apply the concepts learned during the course.
+Additionally, participants will work in groups on a two-week data project and have an oral presentation on October 24, 2025, providing a practical opportunity to apply the concepts learned during the course.
 
