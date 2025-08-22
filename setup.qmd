@@ -4,8 +4,7 @@ author: "Wen Zhong"
 date: today
 ---
 
-::: {.callout-warning icon=false}
-
+::: {.callout-tip}
 
 To perform the tasks of the workshops, you will need to bring your own laptop. 
 The software needed is compatible with all major operating systems, including Windows, MacOS, and Linux. 
@@ -21,29 +20,48 @@ Check you can access and navigate each of the following web servers.
 - Google Colab: Some of the workshop exercises will be run on Google's Colab server. Therefore, you will need a Google account. If you don’t have one, please create an account before the course.
 - Once you have access to Google Colab: · Go through the provided guidelines. · Make a copy of the IPython Notebook to your Google Drive and run the code to test its functionality.
 
+Familiarize yourself with the basic workflow of each application by reading the provided tutorial files. 
+Pay close attention to the specific data requirements for each tool, as they differ (e.g., a zipped folder for methylR versus separate CSV files for olinkWrapper and Shiny-WGCNA).
+
 ## Software installation
 
 Some of the tasks in the workshops will be performed using local installations of R and Python.
-To install R (at least version 4) and Rstudio, follow these links: https://cran.r-project.org/ and https://posit.co/products/open-source/rstudio/?sid=1. 
+- To install R (at least version 4) and Rstudio, follow these links: https://cran.r-project.org/ and https://posit.co/products/open-source/rstudio/?sid=1. 
 Both are free and should be straightforward to install.
-Once you have done that, open Rstudio, and install the following packages, that will be needed for the workshops. 
-- install.packages("dplyr")
-- install.packages("tidyverse”) ")
-- install.packages("ggplot2")
-- install.packages("umap")
-- install.packages("glmnet")
-- install.packages("igraph")
-- install.packages("vegan")
-- BiocManager::install("MOFA2")
-- BiocManager::install("MOFAdata")
+- Once you have done that, open Rstudio, and install the following packages: dplyr, tidyverse, ggplot2, umap, glmnet, igraph, vegan, MOFA2, MOFAdata.
+- Install Python (version 3 or more), and the following packages: numpy, pandas, h5py, scipy, argparse, sklearn, mofapy2
 
-Then, at the start of the script, insert the following lines.
-pack_R <- c("dplyr","tidyverse","ggplot2","umap","glmnet","igraph","vegan","MOFA2","MOFAdata")
-for (i in 1:length(pack_R)) {
-  library(pack_R[i], character.only = TRUE)
-}
+If you are new to R or Python, here are some guides to get started.
+- bioRxiv · Beginner's Guide to Python
 
-Install Python (version 3 or more), and the following packages: numpy, pandas, h5py, scipy, argparse, sklearn, mofapy2
+## Reading material
+
+During the lecture and the workshop, we will use several machine learning techniques that you should be familiar with. 
+We will not delve deep into the mathematical background of these techniques; instead, we will focus on the purpose and limitation of each method. 
+
+- **Principal component analysis (PCA)**
+Papers: https://doi.org/10.1098/rsta.2015.0202  
+Videos: https://youtube.com/watch?v=FgakZw6K1QQ&ab_channel=StatQuestwithJoshStarmer  Applications: https://doi.org/10.1016/j.drudis.2017.01.005, https://doi.org/10.17485/ijst/2017/v10i20/91294 
+- Dimensionality reduction techniques
+UMAP R tutorial: https://cran.r-project.org/web/packages/umap/vignettes/umap.html  t-SNE R tutorial: https://www.r-bloggers.com/2019/05/quick-and-easy-t-sne-analysis-in-r/ 
+- Factor analysis
+MOFA: https://biofam.github.io/MOFA2/
+- Linear regression
+Videos: https://youtube.com/watch?v=hokALdIst8k&ab_channel=StatQuestwithJoshStarmer 
+- Methods to find associations between different omics
+Canonical correspondence analysis (CCA) R tutorial: https://rpubs.com/Devy/902673  Partial least squares (pLS): https://cran.r-project.org/web/packages/pls/vignettes/pls-manual.pdf?utm_source=chatgpt.com  
+R package that implements CCA and pLS: https://doi:10.1093/bioinformatics/btp515, https://mixomics.org/methods/spls/ 
+
+- Moreover, here are some nice examples of studies that use multi-omics data in biomedical research. 
+Relatioship between different omics and health: https://doi.org/10.1038/s41467-020-18148-7  
+Multi-omics to better understand diseases: https://doi.org/10.1016/j.tig.2022.08.005, https://doi.org/10.1038/s10038-020-00842-5  
+Review of multiple multi-omics studies: https://doi.org/10.1002/mco2.315
+
+
+
+
+
+
 
 
 
