@@ -32,12 +32,19 @@ Both are free and should be straightforward to install.
 - Install Python (version 3 or more), and the following packages: numpy, pandas, h5py, scipy, argparse, sklearn, mofapy2
 
 If you are new to R or Python, here are some guides to get started.
-- bioRxiv · Beginner's Guide to Python
+- Beginner's Guide to R:
+- Beginner's Guide to Python: https://wiki.python.org/moin/BeginnersGuide
+
 
 ## Reading material
 
 During the lecture and the workshop, we will use several machine learning techniques that you should be familiar with. 
 We will not delve deep into the mathematical background of these techniques; instead, we will focus on the purpose and limitation of each method. 
+
+- **A Summary of the Basic Machine Learning Models** 
+https://towardsdatascience.com/a-summary-of-the-basic-machine-learning-models-e0a65627ecbe/
+
+Supervised Machine Learning https://www.datacamp.com/blog/supervised-machine-learning
 
 - **Principal component analysis (PCA)**
 Papers: https://doi.org/10.1098/rsta.2015.0202  
@@ -52,11 +59,14 @@ Videos: https://youtube.com/watch?v=hokALdIst8k&ab_channel=StatQuestwithJoshStar
 Canonical correspondence analysis (CCA) R tutorial: https://rpubs.com/Devy/902673  Partial least squares (pLS): https://cran.r-project.org/web/packages/pls/vignettes/pls-manual.pdf?utm_source=chatgpt.com  
 R package that implements CCA and pLS: https://doi:10.1093/bioinformatics/btp515, https://mixomics.org/methods/spls/ 
 
+Transformers in single-cell omics: a review and new perspectives https://doi.org/10.1038/s41592-024-02353-z
+Nature Methods · ResolVI - addressing noise and bias in spatial transcriptomics https://doi.org/10.1101/2025.01.20.634005 
+
+
 - Moreover, here are some nice examples of studies that use multi-omics data in biomedical research. 
 Relatioship between different omics and health: https://doi.org/10.1038/s41467-020-18148-7  
 Multi-omics to better understand diseases: https://doi.org/10.1016/j.tig.2022.08.005, https://doi.org/10.1038/s10038-020-00842-5  
 Review of multiple multi-omics studies: https://doi.org/10.1002/mco2.315
-
 
 
 
