@@ -13,7 +13,7 @@ Although the tasks will not be particularly computational-intensive, 8 GB of RAM
 Part of the workshops will be web-based, they will not require any local installations, just ensure you have a modern web browser installed (e.g., Google Chrome, Firefox, Safari). 
 Check you can access and navigate each of the following web servers:
 
-- **olinkWrapper**: https://olink-wrapper.serve.scilifelab.se/
+- **olinkWrapper**: [https://olink-wrapper.serve.scilifelab.se/](https://olink-wrapper.serve.scilifelab.se/)
 - **methylR**: https://methylr.serve.scilifelab.se/
 - **Shiny-WGCNA**: https://shinywgcna.serve.scilifelab.se/
 
