@@ -18,7 +18,7 @@ date: today
 | October 7, 2025 | 10:45 - 12:00 | Campus US, Linköping | Session 2. Integrative multi-omics | Lectures 2.2: Integrative multi-omics (Genomics, proteomics, metabolomics) |
 | October 7, 2025 | 13:00 - 14:00 | Campus US, Linköping | Workshop 2: Multi-omics integration and feature selection | Workshop 2.1: Single-cell multi-omics |
 | October 7, 2025 | 14:00 - 14:45 | Campus US, Linköping | Workshop 2: Multi-omics integration and feature selection | Workshop 2.2: General Approaches for integrative multi-omics |
-| October 7, 2025 | 14:50 - 16:00 | Campus US, Linköping | Workshop 2: Multi-omics integration and feature selection | Workshop 2.3: Integrative multi-omics (MOFA, <br> shiny-WGCNA) |
+| October 7, 2025 | 14:50 - 16:00 | Campus US, Linköping | Workshop 2: Multi-omics integration and feature selection | Workshop 2.3: Integrative multi-omics (MOFA, shiny-WGCNA) |
 |------|------|------|------|------|------|
 | October 8, 2025 | 09:00 - 10:30 | Campus US, Linköping | Session 3. AI & ML techniques in biomedical research | Lectures 3.1: Principles for core AI & ML techniques |
 | October 8, 2025 | 10:45 - 12:00 | Campus US, Linköping | Session 3. AI & ML techniques in biomedical research | Lectures 3.2: Generative AI for Omics analysis |
