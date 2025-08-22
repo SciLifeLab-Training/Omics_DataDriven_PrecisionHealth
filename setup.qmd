@@ -51,14 +51,16 @@ We will not delve deep into the mathematical background of these techniques; ins
 - **A Summary of the Basic Machine Learning Models** 
 
 https://towardsdatascience.com/a-summary-of-the-basic-machine-learning-models-e0a65627ecbe/
-
 Supervised Machine Learning https://www.datacamp.com/blog/supervised-machine-learning
 <br>
+
 - **Principal component analysis (PCA)**
 
 Papers: https://doi.org/10.1098/rsta.2015.0202 <br> 
 Videos: https://youtube.com/watch?v=FgakZw6K1QQ&ab_channel=StatQuestwithJoshStarmer <br>  
 Applications: https://doi.org/10.1016/j.drudis.2017.01.005, https://doi.org/10.17485/ijst/2017/v10i20/91294 
+<br>
+
 - **Dimensionality reduction techniques**
 
 UMAP R tutorial: https://cran.r-project.org/web/packages/umap/vignettes/umap.html <br> 
@@ -68,18 +70,23 @@ t-SNE R tutorial: https://www.r-bloggers.com/2019/05/quick-and-easy-t-sne-analys
 - **Factor analysis**
 
 MOFA: https://biofam.github.io/MOFA2/
+
 - **Linear regression**
+
 Videos: https://youtube.com/watch?v=hokALdIst8k&ab_channel=StatQuestwithJoshStarmer 
+
 - **Methods to find associations between different omics**
-<br>
 
 Canonical correspondence analysis (CCA) R tutorial: https://rpubs.com/Devy/902673 <br> 
 Partial least squares (pLS): https://cran.r-project.org/web/packages/pls/vignettes/pls-manual.pdf?utm_source=chatgpt.com <br> 
 R package that implements CCA and pLS: https://doi:10.1093/bioinformatics/btp515, https://mixomics.org/methods/spls/ 
 <br>
 
-Transformers in single-cell omics: a review and new perspectives https://doi.org/10.1038/s41592-024-02353-z
-Nature Methods · ResolVI - addressing noise and bias in spatial transcriptomics https://doi.org/10.1101/2025.01.20.634005 
+- **Transformers**
+Transformers in single-cell omics https://doi.org/10.1038/s41592-024-02353-z <br>
+
+- **Spatial transcriptomics**
+Spatial transcriptomics https://doi.org/10.1101/2025.01.20.634005 <br>
 
 
 - Moreover, here are some nice examples of studies that use multi-omics data in biomedical research. 
