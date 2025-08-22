@@ -14,8 +14,11 @@ date: today
 | October 6 2025 | 11:30 - 12:00 | Campus US, Linköping | Session 1. Omics technologies & trends | Lectures 1.4 Proteome and metabolome technologies | Wen Zhong |
 | October 6 2025 | 13:00 - 16:00 | Campus US, Linköping | Workshop 1. Omics in Precision Health | Workshop 1 (lecture): Omics data, visualization, processing <br> Workshop 1 (hands-on): methylR, completeolink and olinkwrapper | Jyotirmoy Das |
 |------|------|------|------|------|------|
-| October 7 2025 | 09:00 - 12:00 | Campus US, Linköping | Module 2: Lectures <br> 3. Integrative multi-omics <br> 4. Computational approaches for multi-omics integration |
-| October 7 2025 | 13:00 - 16:00 | Campus US, Linköping | Module 2: Workshop 2 <br> Multi-omics integration and feature selection|
+| October 7 2025 | 09:00 - 10:30 | Campus US, Linköping | Session 2. Integrative multi-omics | Lectures 2.1 Single-cell and spatial omics (RNA, ATAC-seq, V(D)J, etc) | Antonio Lentini |
+| October 7 2025 | 10:45 - 12:00 | Campus US, Linköping | Session 2. Integrative multi-omics | Lectures 2.2 Integrative multi-omics (Genomics, proteomics, metabolomics) | Alberto Zenere |
+| October 7 2025 | 13:00 - 14:00 | Campus US, Linköping | Workshop 2: Multi-omics integration and feature selection | Workshop 2.1: Single-cell multi-omics | Antonio Lentini |
+| October 7 2025 | 14:00 - 14:45 | Campus US, Linköping | Workshop 2: Multi-omics integration and feature selection | Workshop 2.2: General Approaches for integrative multi-omics | Alberto Zenere |
+| October 7 2025 | 14:50 - 16:00 | Campus US, Linköping | Workshop 2: Multi-omics integration and feature selection | Workshop 2.2: Integrative multi-omics (MOFA, shiny-WGCNA) | Xiangfu Zhong <br> Jyotirmoy Das |
 |------|------|------|------|------|------|
 | October 8 2025 | 09:00 - 12:00 | Campus US, Linköping | Module 3: Lectures <br> 5. Principles for core AI & ML techniques <br> 6. Generative AI for Omics analysis |
 | October 8 2025 | 13:00 - 16:00 | Campus US, Linköping | Module 3: Workshop 3 <br> AI models for omics analysis|
