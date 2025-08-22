@@ -56,18 +56,7 @@ a:hover {
 
 /* Table format */
 table {
-    width: 100%;               
-    table-layout: fixed;       
-    border-collapse: collapse;  
+    width: 100%;                
 }
 
-th, td {
-    padding: 8px 12px;
-    text-align: left;
-    border: 1px solid #ddd;
-}
-
-th {
-    background-color: #f2f2f2;
-    font-weight: 600;
-}
+ 
