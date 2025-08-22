@@ -6,10 +6,13 @@ date: today
 
 <br>
 
-| Date | Time | Location | Session |
+| Date | Time | Location | Session | Topic | Lecturer |
 |------|------|------|------|
-| October 6 2025 | 09:00 - 12:00 | Campus US, Linköping | Module 1: Lectures <br> 1. Omics technologies & trends <br> 2. Omics in Precision Health |
-| October 6 2025 | 13:00 - 16:00 | Campus US, Linköping | Module 1: Workshop 1 <br> Omics data processing and visualization|
+| October 6 2025 | 09:00 - 09:50 | Campus US, Linköping | Session 1. Omics technologies & trends | Lectures 1.1 Course Introduction and  Omics Landscape | Wen Zhong |
+| October 6 2025 | 10:00 - 10:50 | Campus US, Linköping | Session 1. Omics technologies & trends | Lectures 1.2 Clinical genomics and Scilifelab facilities | Colum Walsh |
+| October 6 2025 | 11:00 - 11:30 | Campus US, Linköping | Session 1. Omics technologies & trends | Lectures 1.3 Sequencing technologies (WGS, WES, methylation, Long reads, RNA-seq) | Jyotirmoy Das |
+| October 6 2025 | 11:30 - 12:00 | Campus US, Linköping | Session 1. Omics technologies & trends | Lectures 1.4 Proteome and metabolome technologies | Wen Zhong |
+| October 6 2025 | 13:00 - 16:00 | Campus US, Linköping | Workshop 1. Omics in Precision Health | Workshop 1 (lecture): Omics data, visualization, processing <br> Workshop 1 (hands-on): methylR, completeolink and olinkwrapper | Jyotirmoy Das |
 |------|------|------|------|
 | October 7 2025 | 09:00 - 12:00 | Campus US, Linköping | Module 2: Lectures <br> 3. Integrative multi-omics <br> 4. Computational approaches for multi-omics integration |
 | October 7 2025 | 13:00 - 16:00 | Campus US, Linköping | Module 2: Workshop 2 <br> Multi-omics integration and feature selection|
