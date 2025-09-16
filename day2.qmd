@@ -30,7 +30,7 @@ Unsupervised method to integrate multiple omics datasets. MOFA infers an interpr
 #### shiny-WGCNA
 Weighted correlation network analysis (WGCNA) is a method to identify groups of highly correlated genes and study their relatoinhips to external traits.
 
-## Teachers
+### Teachers
 
 - Antonio Lentini <a href="https://orcid.org/0000-0003-1239-5495" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 - Alberto Zenere <a href="https://orcid.org/0000-0001-5791-7686" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
