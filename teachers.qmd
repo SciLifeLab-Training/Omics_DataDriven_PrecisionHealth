@@ -9,7 +9,7 @@ date: today
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/wen.png){width=80}
+![](img/wen.jpg){width=80}
 :::
 ::: {.g-col-10}
 Wen Zhong mainly focuses on the integration of multi-omics, the interplay between genetics and phenotypes, and the development of data-driven strategies/tools for precision medicine. 
@@ -23,7 +23,7 @@ The aim is to investigate the molecular biomarkers for the estimation of disease
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/antonio.png){width=80}
+![](img/antonio.jpg){width=80}
 :::
 ::: {.g-col-10}
 
@@ -36,7 +36,7 @@ The aim is to investigate the molecular biomarkers for the estimation of disease
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/alberto.png){width=80}
+![](img/alberto.jpeg){width=80}
 :::
 ::: {.g-col-10}
 
@@ -62,7 +62,7 @@ The aim is to investigate the molecular biomarkers for the estimation of disease
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/xiangfu.png){width=80}
+![](img/xiangfu.jpg){width=80}
 :::
 ::: {.g-col-10}
 
@@ -74,7 +74,7 @@ The aim is to investigate the molecular biomarkers for the estimation of disease
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/jyotirmoy.png){width=80}
+![](img/jyotirmoy.jpg){width=80}
 :::
 ::: {.g-col-10}
 
@@ -99,10 +99,11 @@ The aim is to investigate the molecular biomarkers for the estimation of disease
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/swapnali.png){width=80}
+![](img/swapnali.jfif){width=80}
 :::
 ::: {.g-col-10}
 
 :::
 :::
+
 
