@@ -25,5 +25,5 @@ Throughout this module, the students will:
 ## Contributors
 
 - Wen Zhong <a href="https://orcid.org/0000-0002-7422-6104" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Colum Walsh <a href="https://orcid.org/0000-0001-5791-7686" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Jyotirmoy Das <a href="https://orcid.org/0000-0002-4960-5882" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+- Colum Walsh <a href="https://orcid.org/0000-0001-9921-7506" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+- Jyotirmoy Das <a href="https://orcid.org/0000-0002-5649-4658" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
