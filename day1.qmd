@@ -4,25 +4,27 @@ author: "Wen Zhong"
 date: today
 ---
 
-::: {.callout-tip}
 
-### Summary 
+### Morning lectures
+
+#### Course introduction and omics landscape
 The field of omic data analysis has been rapidly evolving during the last two decades.
 Moreover, the importance of bioinformatics in biomedical research has steadily continued to increase, becoming an almost a required skill for any researcher in the field.
-Throughout this module, the students will:
 
-- Obtain a comprehensive overview of the available omics.
-- Learn which omic may be more suitable for a given research question.
-- Learn how to analyze several types of omics.
-:::
+#### Clinical genomisc and Scilifelab facilities
 
-## Morning lectures
+#### Sequencing technologies
+
+#### Proteome and metabolome technologies
 
 
-## Afternoon workshops 
+### Afternoon workshops 
 
+#### Omics data, visualization, processing
 
-## Contributors
+#### methylR, completeolink and olinkwrapper
+
+### Teachers
 
 - Wen Zhong <a href="https://orcid.org/0000-0002-7422-6104" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 - Colum Walsh <a href="https://orcid.org/0000-0001-9921-7506" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
