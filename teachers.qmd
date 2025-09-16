@@ -18,7 +18,7 @@ The aim is to investigate molecular biomarkers for estimating disease risk, earl
 :::
 
 
-#### Antonio Lentini [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0002-9272-5628)
+#### Antonio Lentini [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0003-1239-5495)
 ##### Assistant Professor, Linköping, Department of Biomedical and Clinical Sciences (BKV)
 
 ::: {.grid}
@@ -59,7 +59,7 @@ Ultimately, we aim to identify new therapeutic targets with the vision of improv
 :::
 
 
-#### Xiangfu Zhong [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0009-0007-9515-6241)
+#### Xiangfu Zhong [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0002-1872-1186)
 ##### Principal research engineer, Linköping, Department of Biomedical and Clinical Sciences (BKV) 
 
 ::: {.grid}
@@ -71,7 +71,7 @@ Ultimately, we aim to identify new therapeutic targets with the vision of improv
 :::
 :::
 
-#### Jyotirmoy Das [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0002-4960-5882)
+#### Jyotirmoy Das [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0002-5649-4658)
 ##### Principal research engineer, Linköping, Department of Biomedical and Clinical Sciences (BKV) 
 
 ::: {.grid}
@@ -107,6 +107,7 @@ Ultimately, we aim to identify new therapeutic targets with the vision of improv
 
 :::
 :::
+
 
 
 
