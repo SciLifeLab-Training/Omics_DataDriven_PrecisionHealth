@@ -1,0 +1,30 @@
+---
+title: "Day 2: Single-cell omics and multi-omics integration"
+author: "Wen Zhong"
+date: today
+---
+
+::: {.callout-tip}
+
+### Summary
+The second day will focus on two topics: single-cell/spatial omics and integration of multi-omics data.
+Analyzing paired omics generated from the same biological samples promises to give a more holistic view of the biological processes.
+However, there remain several practical questions on how to integrate multi-omics effectively. 
+In this module we will present what strategies are currently used by researchers for this purpose.
+After this module, the students will:
+
+- Know what are the advantages of multi-omics approaches.
+- Be able to implement state-of-the-art analyses for multi-omics integration.
+:::
+
+## Topics
+In first lecture, Ass. Professor Antonio Lentini will present single cell and spatial omics.
+In the second lecture, Alberto Zenere will discuss strategies to integrate multi-omics data.
+Morover, specific tools, such as MOFA and WGCNA, will be presented during the workshops.
+
+## Teachers
+
+- Antonio Lentini <a href="https://orcid.org/0000-0002-7422-6104" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+- Alberto Zenere <a href="https://https://orcid.org/0000-0001-5791-7686" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+- Xiangfu Zhong <a href="https://orcid.org/0000-0002-4960-5882" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+- Jyotirmoy Das <a href="https://orcid.org/0000-0002-4960-5882" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
