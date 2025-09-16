@@ -33,7 +33,7 @@ Some of the tasks in the workshops will be performed using local installations o
 
 - To install R (version 4 or more) and Rstudio, follow these links: [https://cran.r-project.org/](https://cran.r-project.org/) and [https://posit.co/products/open-source/rstudio/?sid=1](https://posit.co/products/open-source/rstudio/?sid=1). 
 Both are free and should be straightforward to install.
-- Once you have done that, open Rstudio, and install the following packages: dplyr, tidyverse, ggplot2, umap, glmnet, igraph, vegan, MOFA2, MOFAdata.
+- Once you have done that, open Rstudio, and install the following packages: dplyr, tidyverse, ggplot2, umap, glmnet, igraph, vegan, MOFA2, MOFAdata, Seurat, and hdf5r.
 - Install Python [https://www.python.org/downloads/](https://www.python.org/downloads/) (version 3 or more), and the following packages: numpy, pandas, h5py, scipy, argparse, sklearn, mofapy2
 
 If you are new to R or Python, here are some guides to get started.
