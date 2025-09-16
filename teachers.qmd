@@ -12,8 +12,8 @@ date: today
 ![](img/wen.jpg){width=80}
 :::
 ::: {.g-col-10}
-Wen Zhong mainly focuses on the integration of multi-omics, the interplay between genetics and phenotypes, and the development of data-driven strategies/tools for precision medicine. 
-The aim is to investigate the molecular biomarkers for the estimation of disease risks, early diagnosis of disease, stratification of drug treatment response, disease progression monitoring and the stratification of patients.
+My research primarily focuses on the integration of multi-omics, the interplay between genetics and phenotypes, and the development of data-driven strategies and tools for precision medicine. 
+The aim is to investigate molecular biomarkers for estimating disease risk, early disease diagnosis, stratifying drug treatment responses, monitoring disease progression, and patient stratification.
 :::
 :::
 
@@ -26,7 +26,9 @@ The aim is to investigate the molecular biomarkers for the estimation of disease
 ![](img/antonio.jpg){width=80}
 :::
 ::: {.g-col-10}
-
+Cancer develops over time, with different subclones acquiring new mutations that help the tumor grow and resist treatment. 
+Our mission is to uncover and target the mechanisms driving tumor progression through cutting-edge single-cell and computational methods.
+Ultimately, we aim to identify new therapeutic targets with the vision of improving long-term survival for cancer patients.
 :::
 :::
 
@@ -105,5 +107,6 @@ The aim is to investigate the molecular biomarkers for the estimation of disease
 
 :::
 :::
+
 
 
