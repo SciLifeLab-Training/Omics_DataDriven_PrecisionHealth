@@ -88,7 +88,7 @@ Ultimately, we aim to identify new therapeutic targets with the vision of improv
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/xingyue.png){width=80}
+![](img/xyw.jpg){width=80}
 :::
 ::: {.g-col-10}
 
@@ -107,6 +107,7 @@ Ultimately, we aim to identify new therapeutic targets with the vision of improv
 
 :::
 :::
+
 
 
 
