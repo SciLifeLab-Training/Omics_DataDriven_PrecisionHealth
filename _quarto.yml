@@ -18,9 +18,7 @@ website:
       - index.qmd 
       - setup.qmd
       - schedule.qmd
-      - day1.qmd
-      - day2.qmd
-      - teachers.qmd
+
   navbar:
     background: "#A7C947"
     logo: "img/SciLifeLab_Logotype_NEG.png"
