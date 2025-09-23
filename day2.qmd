@@ -1,5 +1,5 @@
 ---
-title: "Day 2: Single-cell omics and multi-omics integration"
+title: "Day 2: From hypothesis to validation: Systems-based tools for omics"
 author: "Wen Zhong"
 date: today
 ---
@@ -7,7 +7,7 @@ date: today
 
 ### Morning lectures
 
-#### Single-cell and spatial omics
+#### Single-cell sequencing methodology
 Single-cell omics uncover the diversity of cell types and states, while spatial omics add information on their position and interactions. 
 Combined, they provide a powerful framework to map tissues and understand health and disease at unprecedented resolution.
 
@@ -18,7 +18,7 @@ In this module we will present what strategies are currently used by researchers
 
 ### Afternoon workshops
 
-#### Single-cell multi-omics
+#### Single-cell sequencing analysis
 Standard pipelines for the analysis of single-cell multi-omics data.
 
 #### General approaches for multi-omics data
