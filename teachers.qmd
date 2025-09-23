@@ -18,6 +18,21 @@ The aim is to investigate molecular biomarkers for estimating disease risk, earl
 :::
 
 
+#### Colum Walsh [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0001-9921-7506) 
+##### Professor, Linköping, Department of Biomedical and Clinical Sciences (BKV) 
+
+::: {.grid}
+::: {.g-col-2}
+![](img/colum.jpg){width=80}
+:::
+::: {.g-col-10}
+Colum Walsh is a Professor at the Department of Biomedical and Clinical Sciences at Linköping University. 
+He is also the current director for the Clinical Genomics platform at SciLifeLab.
+His research bridges molecular biology and health, with a focus that includes the epigenetic effects of nutritional interventions, disease-associated epigenetic signatures, and mental health risk factors.
+:::
+:::
+
+
 #### Antonio Lentini [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0003-1239-5495)
 ##### Assistant Professor, Linköping, Department of Biomedical and Clinical Sciences (BKV)
 
@@ -107,6 +122,7 @@ Ultimately, we aim to identify new therapeutic targets with the vision of improv
 
 :::
 :::
+
 
 
 
