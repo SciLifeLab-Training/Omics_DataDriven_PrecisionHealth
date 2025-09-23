@@ -4,23 +4,33 @@ author: "Wen Zhong"
 date: today
 ---
 
+::: {.callout-tip}
 
-### Morning lectures
-The morning lectures will be focused on basic principles of machine learning techniques and the available tools in application.
+### Learning objective
 
-- **Network medicine tools for data-driven health** (Mika Gustafsson)
-- **Generative AI for Omics analysis** (Wen Zhong)
+- Understand current major machine learning methods
+- xxx
+- xxx
+:::
 
-### Afternoon workshops
+### Lecture 1 (09:00-10:30): Network medicine tools for data-driven health (Speaker: Mika Gustafsson)
+The lecture introduces network models, such as deep neural network, and the applications in AI-based precision medicine.
 
-The workshop exercises will be run on Google's Colab server. The ipynb notebook will be released before class.
+## Break (10:30-10:45)
 
-- **Classical ML methods** (Xingyue Wang)
-- **Generative AI models for omics analysis** (Xingyu Qiao)
+### Lecture 2 (10:45-12:00): Generative AI for Omics analysis (Speaker: Wen Zhong)
 
-### Teachers
+The lecture focuses on an introduction to machine learning methods, and generative AI (e.g. Transformer) and their application in biomedical research.
 
-- Mika Gustafsson 
-- Wen Zhong <a href="https://orcid.org/0000-0002-7422-6104" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Xingyue Wang
-- Xiangyu Qiao
+ 
+## Lunch break (12:00-13:00)
+
+### Workshop 1 (13:00-14:00): Classical ML methods (Workshop instructor: Xingyue Wang)
+The workshop aims to understand the general modeling problem and the basic pipeline in model training and testing.
+
+
+### Workshop 2 (14:00-16:00): Generative AI models for omics analysis (Workshop instructor: Xingyu Qiao)
+The workshop aims to illustrate the application of pre-trained generative AI models for the classification of cell types and identification of cell markers.
+
+
+ 
