@@ -1,7 +1,20 @@
 ---
-title: "Speakers and Instructors"
+title: "Course coordinators, Speakers and Instructors"
 date: today
 ---
+#### Course coordinators: Lisa Hoffstedt, Linköping University; Jill Jaworski and Nina Norgren,SciLifeLab Training Hub
+
+::: {.grid}
+::: {.g-col-2}
+![](img/lisa.jpg){width=110}
+:::
+::: {.g-col-2}
+![](img/jill.jpg){width=110}
+:::
+::: {.g-col-2}
+![](img/nina.jpg){width=110}
+:::
+:::
 
 
 #### Wen Zhong [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0002-7422-6104) 
@@ -149,6 +162,7 @@ In addition to his academic work, he is an entrepreneur and co-foundeer of SurvO
 
 :::
 :::
+
 
 
 
