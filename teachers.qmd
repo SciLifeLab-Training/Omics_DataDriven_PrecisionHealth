@@ -1,5 +1,5 @@
 ---
-title: "Teachers"
+title: "Speakers and Instructors"
 date: today
 ---
 
@@ -149,6 +149,7 @@ In addition to his academic work, he is an entrepreneur who founded a cybersecur
 
 :::
 :::
+
 
 
 
