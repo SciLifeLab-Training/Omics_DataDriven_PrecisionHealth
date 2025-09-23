@@ -19,24 +19,32 @@ Throughout this module, the students will:
 ### Lectures
 
 #### [9:00-9:50] Lecture 1: Course introduction and omics landscape
+
 ** Speaker: Wen Zhong **
 
 In the first lecture of the course, Assistant Professor Wen Zhong will give an introduction to its contents and its structure.
 She will also give an overview of the evolution of omics technologies, including sequencing, mass spectrometry, antibody-based techniques.
 
+
 #### [10:00-10:50] Lecture 2: Cutting-edge technologies in the Swedish molecular diagnostics landscape
+
 ** Speaker: Colum Walsh **
 
 Colum Walsh, current Director of the Clinical Genomics Platform at SciLifeLab, will present the facilities and cutting-edge technologies available to researchers in Sweden, including genomics, proteomics, metabolomics, bioimaging, and bioinformatics
 
+
 #### [10:50-11:00] Break
 
+
 #### [11:00-11:30] Lecture 3: Sequencing technologies
+
 ** Speaker: Jyotirmoy Das **
 
 This lecture will focus on modern high-throughput sequencing techniques, with applications to DNA, RNA and epigenetic sequencing.
 
+
 #### [11:30-12:00] Lecture 4: Proteome and metabolome technologies
+
 ** Speaker: Wen Zhong **
 
 This lecture will present different technolgies that can be used to generate proteomics and metabolomics data, including mass spectrometry, antibody-based (*e.g.*, Olink) and aptamer-based (*e.g.* SOMAScan).
@@ -44,12 +52,15 @@ This lecture will present different technolgies that can be used to generate pro
 ### Workshops 
 
 #### [13:00-16:00] Omics data, visualization, processing
+
 ** Instructor: Jyotirmoy Das **
 
 This workshop introduces omics data and guides the students through essential steps of processing, analysis, and visualization. 
 Attendees will learn how to handle epigenetic and proteomics datasets using modern computational tools.
 
+
 #### [13:00-16:00 cont.] MethylR, CompleteOlink and OlinkWrapper
+
 ** Instructor: Jyotirmoy Das **
 
 MethylR is an R-based tool designed for the analysis and visualization of DNA methylation data, including differential methylation and functional annotation. 
