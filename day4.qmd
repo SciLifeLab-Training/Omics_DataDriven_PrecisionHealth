@@ -13,20 +13,26 @@ date: today
 ### Lectures
 
 #### [09:00-10:30] Lecture 1: AI for health introduction
+
 ** Speaker: Wen Zhong **
+
 The lecture introduces AI and other bioinformatic tools in translation research, especially in precisine medicine.
 
 #### [10:30-10:45] Break
 
 #### [10:45-12:00] Lecture 2: From hypothesis to validation: Systems-based tools for omics
+
 ** Speaker: Mika Gustafsson **
+
 The lecture focuses on the application cases of omics and AI techniques in translation research.
+
 
 #### [12:00-13:00] Lunch break
 
 ### Seminar
 
 #### [13:00-16:00] AI in Translational Research
+
 ** Seminar host: Swapnali Barde **
 
 In the seminar, students will discuss the research topics related to the reading material in groups, and a short essay of self-reflection in AI techniques will be required as part of the exam after the seminar. The reading material will be released before class. 
