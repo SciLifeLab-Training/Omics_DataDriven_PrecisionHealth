@@ -70,7 +70,7 @@ Ultimately, we aim to identify new therapeutic targets with the vision of improv
 :::
 ::: {.g-col-10}
 Vikash Pandey, a bioinformatician at Umeå University, conducts computational research on malaria parasites, focusing on genome-scale analyses and the identification of key metabolic pathways involved in transmission. 
-In addition to his academic work, he is an entrepreneur who founded a cybersecurity startup as a teenager and has developed innovative tools in both the tech and bioinformatics sectors.
+In addition to his academic work, he is an entrepreneur and co-foundeer of SurvOm (https://www.survom.com/), a startup that develops an AI-driven platform to accelerate and simplify multi-omics data analysis for precision medicine
 :::
 :::
 
@@ -149,6 +149,7 @@ In addition to his academic work, he is an entrepreneur who founded a cybersecur
 
 :::
 :::
+
 
 
 
