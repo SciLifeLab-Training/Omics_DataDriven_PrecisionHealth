@@ -5,13 +5,9 @@ date: today
 ---
 
 ### Learning objectives  
-The field of omic data analysis has been rapidly evolving during the last few decades.
-Moreover, the importance of bioinformatics in biomedical research has steadily continued to increase, becoming an almost a required skill for any researcher in the field.
-Throughout this module, the students will:
+- Understand how AI and ML techniques can be applied in translational omics research.
+- Explore real-world case studies where AI/ML approaches have been used to address challenges in precision health.
 
-- Know lanscape of omic technologies
-- Learn which omic may be more suitable for a given research question.
-- Learn how to analyze several types of omics.
 :::
 
 ### Lectures
