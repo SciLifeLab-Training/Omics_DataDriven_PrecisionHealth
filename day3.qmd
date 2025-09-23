@@ -16,6 +16,7 @@ date: today
 ### Lectures
 
 #### [09:00-10:30] Lecture 1: Network medicine tools for data-driven health 
+
 ** Speaker: Mika Gustafsson **
 
 The lecture introduces network models, such as deep neural network, and the applications in AI-based precision medicine.
@@ -23,6 +24,7 @@ The lecture introduces network models, such as deep neural network, and the appl
 #### [10:30-10:45] Break 
 
 #### [10:45-12:00] Lecture 2: Generative AI for Omics analysis
+
 ** Speaker: Wen Zhong**
 
 The lecture focuses on an introduction to machine learning methods, and generative AI (e.g. Transformer) and their application in biomedical research.
@@ -33,12 +35,14 @@ The lecture focuses on an introduction to machine learning methods, and generati
 ### Workshop
 
 #### [13:00-14:00] Workshop 1: Classical ML methods 
+
 ** Workshop instructor: Xingyue Wang**
 
 The workshop aims to understand the general modeling problem and the basic pipeline in model training and testing.
 
 
 #### [14:00-16:00] Workshop 2: Generative AI models for omics analysis 
+
 ** Workshop instructor: Xingyu Qiao** 
 
 The workshop aims to illustrate the application of pre-trained generative AI models for the classification of cell types and identification of cell markers.
