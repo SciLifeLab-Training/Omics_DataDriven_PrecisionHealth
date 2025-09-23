@@ -7,13 +7,13 @@ date: today
 
 ### Morning lectures
 
-- AI for health introduction (Wen Zhong)
-- From hypothesis to validation: Systems-based tools for omics (Mika Gustafsson)
+- AI for health introduction (**Wen Zhong**)
+- From hypothesis to validation: Systems-based tools for omics (**Mika Gustafsson**)
 
 ### Afternoon seminar
 The reading material will be released before class. In the seminar, students will discuss the research topics related to the reading material, and a short essay will be required as part of the exam after the seminar.
 
-- AI in Translational Research (Swapnali Barde) 
+- AI in Translational Research (**Swapnali Barde**) 
 
 ### Teachers
 
