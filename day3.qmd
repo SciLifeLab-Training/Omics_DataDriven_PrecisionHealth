@@ -1,0 +1,23 @@
+---
+title: "Day 3: AI & ML techniques in biomedical research"
+author: "Wen Zhong"
+date: today
+---
+
+
+### Morning lectures
+
+- Network medicine tools for data-driven health (Mika Gustafsson)
+- Generative AI for Omics analysis (Wen Zhong)
+
+### Afternoon workshops
+
+- Classical ML methods (Xingyue Wang)
+- Generative AI models for omics analysis (Xingyu Qiao)
+
+### Teachers
+
+- Mika Gustafsson 
+- Wen Zhong <a href="https://orcid.org/0000-0002-7422-6104" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+- Xingyue Wang
+- Xiangyu Qiao
