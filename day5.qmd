@@ -24,7 +24,7 @@ The lecture focuses on the startup, Survom, and AI-driven multi-omics tools, wit
 
 #### [10:45-12:00] Lecture 2: Building Blocks of Innovation: from research to impact
 
-** Speaker: Ali Moshfegh **
+**Speaker: Ali Moshfegh**
 
 The lecture introduces how to initiate an innovation project, translating a research study into practical bench work.
 
@@ -34,7 +34,7 @@ The lecture introduces how to initiate an innovation project, translating a rese
 
 ### [13:00-16:00] Group Discussion & Feedback Session
 
-** Discussion host: Alberto Zenere **
+**Discussion host: Alberto Zenere**
 
 Data project grouping and requirements for the final oral presentation will be introduced. Free time for group discussion.
 
