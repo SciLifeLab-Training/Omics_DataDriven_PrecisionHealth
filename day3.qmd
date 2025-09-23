@@ -6,6 +6,7 @@ date: today
 
 
 ### Morning lectures
+The morning lectures will be focused on basic principles of machine learning techniques and the available tools in application.
 
 - **Network medicine tools for data-driven health** (Mika Gustafsson)
 - **Generative AI for Omics analysis** (Wen Zhong)
