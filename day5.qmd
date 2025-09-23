@@ -7,8 +7,8 @@ date: today
 ::: {.callout-tip}
 
 ### Learning objectives  
-- Understand how AI and ML techniques can be applied in translational omics research.
-- Explore real-world case studies where AI/ML approaches have been used to address challenges in precision health.
+- Understand real-world applications of AI in clinical and digital health settings.
+- Learn strategies for translating AI research into practical healthcare solutions from an innovation perspective.
 
 :::
 
