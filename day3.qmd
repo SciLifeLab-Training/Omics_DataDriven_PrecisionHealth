@@ -7,15 +7,15 @@ date: today
 
 ### Morning lectures
 
-- Network medicine tools for data-driven health (**Mika Gustafsson**)
-- Generative AI for Omics analysis (**Wen Zhong**)
+- **Network medicine tools for data-driven health** (Mika Gustafsson)
+- **Generative AI for Omics analysis** (Wen Zhong)
 
 ### Afternoon workshops
 
 The workshop exercises will be run on Google's Colab server. The ipynb notebook will be released before class.
 
-- Classical ML methods (**Xingyue Wang**)
-- Generative AI models for omics analysis (**Xingyu Qiao**)
+- **Classical ML method**s (Xingyue Wang)
+- **Generative AI models for omics analysis** (Xingyu Qiao)
 
 ### Teachers
 
