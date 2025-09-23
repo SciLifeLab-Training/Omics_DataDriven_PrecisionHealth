@@ -6,30 +6,37 @@ date: today
 
 ::: {.callout-tip}
 
-### Learning objective
+### Learning objectives
 
-- Understand current major machine learning methods
-- xxx
-- xxx
+- Explain the principles, capabilities, and limitations of key AI and machine learning (ML) techniques in biomedical research.
+- Evaluate and select appropriate AI/ML approaches for specific biomedical and precision health applications.
+ 
 :::
 
-### Lecture 1 (09:00-10:30): Network medicine tools for data-driven health (Speaker: Mika Gustafsson)
+#### [09:00-10:30] Lecture 1: Network medicine tools for data-driven health 
+** Speaker: Mika Gustafsson **
+
 The lecture introduces network models, such as deep neural network, and the applications in AI-based precision medicine.
 
-#### Break (10:30-10:45)
+#### [10:30-10:45] Break 
 
-### Lecture 2 (10:45-12:00): Generative AI for Omics analysis (Speaker: Wen Zhong)
+#### [10:45-12:00] Lecture 2: Generative AI for Omics analysis
+** Speaker: Wen Zhong**
 
 The lecture focuses on an introduction to machine learning methods, and generative AI (e.g. Transformer) and their application in biomedical research.
 
  
-#### Lunch break (12:00-13:00)
+#### [12:00-13:00] Lunch break 
 
-### Workshop 1 (13:00-14:00): Classical ML methods (Workshop instructor: Xingyue Wang)
+#### [13:00-14:00] Workshop 1: Classical ML methods 
+** Workshop instructor: Xingyue Wang**
+
 The workshop aims to understand the general modeling problem and the basic pipeline in model training and testing.
 
 
-### Workshop 2 (14:00-16:00): Generative AI models for omics analysis (Workshop instructor: Xingyu Qiao)
+#### [14:00-16:00] Workshop 2: Generative AI models for omics analysis 
+** Workshop instructor: Xingyu Qiao** 
+
 The workshop aims to illustrate the application of pre-trained generative AI models for the classification of cell types and identification of cell markers.
 
 
