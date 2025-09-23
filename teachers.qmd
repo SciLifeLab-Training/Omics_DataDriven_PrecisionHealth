@@ -151,19 +151,27 @@ In addition to his academic work, he is an entrepreneur and co-foundeer of SurvO
 :::
 
 
-#### Course coordinators: Lisa Hoffstedt, Linköping University; Jill Jaworski and Nina Norgren, SciLifeLab Training Hub
+#### Course coordinators: ; Jill Jaworski and Nina Norgren, SciLifeLab Training Hub
 
 ::: {.grid}
+
 ::: {.g-col-2}
+**Lisa Hoffstedt, Linköping University**  
 ![](img/lisa.jpeg){width=110}
 :::
+
 ::: {.g-col-2}
+**Jill Jaworski, SciLifeLab Training Hub**  
 ![](img/jill.png){width=110}
 :::
+
 ::: {.g-col-2}
+**Nina Norgren, SciLifeLab Training Hub**  
 ![](img/nina.jpg){width=110}
 :::
+
 :::
+
 
 
 
