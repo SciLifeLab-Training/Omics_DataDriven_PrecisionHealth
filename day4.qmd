@@ -20,7 +20,7 @@ date: today
 
 **Speaker: Wen Zhong**
 
-The lecture introduces AI and other bioinformatic tools in translation research, especially in precisine medicine.
+The lecture introduces AI and other bioinformatic tools in translational research, especially in precision medicine.
 
 #### [10:30-10:45] Break
 
@@ -39,6 +39,6 @@ The lecture focuses on the application cases of omics and AI techniques in trans
 
 **Seminar host: Swapnali Barde**
 
-In the seminar, students will discuss the research topics related to the reading material in groups, and a short essay of self-reflection in AI techniques will be required as part of the exam after the seminar. The reading material will be released before class. 
+In the seminar, students will discuss the research topics related to the reading material in groups, and a short essay of self-reflection on AI techniques will be required as part of the exam after the seminar. The reading material will be released before class. 
 
  
