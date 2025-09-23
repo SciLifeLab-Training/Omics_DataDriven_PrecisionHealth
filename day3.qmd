@@ -12,6 +12,8 @@ date: today
 
 ### Afternoon workshops
 
+The workshop exercises will be run on Google's Colab server. The ipynb notebook will be released before class.
+
 - Classical ML methods (Xingyue Wang)
 - Generative AI models for omics analysis (Xingyu Qiao)
 
