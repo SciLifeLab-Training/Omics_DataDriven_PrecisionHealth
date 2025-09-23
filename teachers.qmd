@@ -5,40 +5,40 @@ date: today
 
 
 #### Wen Zhong [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0002-7422-6104) 
-
 ##### Assistant Professor, Linköping, Department of Biomedical and Clinical Sciences (BKV) 
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/john-doe.png){width=80}
+![](img/wen.jpg){width=80}
 :::
 ::: {.g-col-10}
-Wen Zhong mainly focuses on the integration of multi-omics, the interplay between genetics and phenotypes, and the development of data-driven strategies/tools for precision medicine. 
-The aim is to investigate the molecular biomarkers for the estimation of disease risks, early diagnosis of disease, stratification of drug treatment response, disease progression monitoring and the stratification of patients.
+My research primarily focuses on the integration of multi-omics, the interplay between genetics and phenotypes, and the development of data-driven strategies and tools for precision medicine. 
+The aim is to investigate molecular biomarkers for estimating disease risk, early disease diagnosis, stratifying drug treatment responses, monitoring disease progression, and patient stratification.
 :::
 :::
 
 
-#### Jing Wang [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0002-9272-5628)
-##### Postdoctoral researcher, Linköping, Department of Biomedical and Clinical Sciences (BKV)
+#### Antonio Lentini [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0003-1239-5495)
+##### Assistant Professor, Linköping, Department of Biomedical and Clinical Sciences (BKV)
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/john-doe.png){width=80}
+![](img/antonio.jpg){width=80}
 :::
 ::: {.g-col-10}
-
+Cancer develops over time, with different subclones acquiring new mutations that help the tumor grow and resist treatment. 
+Our mission is to uncover and target the mechanisms driving tumor progression through cutting-edge single-cell and computational methods.
+Ultimately, we aim to identify new therapeutic targets with the vision of improving long-term survival for cancer patients.
 :::
 :::
 
 
 #### Alberto Zenere [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0001-5791-7686)
-
 ##### Postodoctoral researcher, Linköping, Department of Biomedical and Clinical Sciences (BKV)
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/john-doe.png){width=80}
+![](img/alberto.jpeg){width=80}
 :::
 ::: {.g-col-10}
 
@@ -47,12 +47,11 @@ The aim is to investigate the molecular biomarkers for the estimation of disease
 
 
 #### Xiangyu Qiao [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0009-0007-9515-6241)
-
 ##### Postodoctoral researcher, Linköping, Department of Biomedical and Clinical Sciences (BKV) 
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/john-doe.png){width=80}
+![](img/xiangyu.png){width=80}
 :::
 ::: {.g-col-10}
 
@@ -60,13 +59,36 @@ The aim is to investigate the molecular biomarkers for the estimation of disease
 :::
 
 
-#### Xingyue Wang [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0002-4960-5882)
+#### Xiangfu Zhong [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0002-1872-1186)
+##### Principal research engineer, Linköping, Department of Biomedical and Clinical Sciences (BKV) 
 
+::: {.grid}
+::: {.g-col-2}
+![](img/xiangfu.jpg){width=80}
+:::
+::: {.g-col-10}
+
+:::
+:::
+
+#### Jyotirmoy Das [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0002-5649-4658)
+##### Principal research engineer, Linköping, Department of Biomedical and Clinical Sciences (BKV) 
+
+::: {.grid}
+::: {.g-col-2}
+![](img/jyotirmoy.jpg){width=80}
+:::
+::: {.g-col-10}
+
+:::
+:::
+
+#### Xingyue Wang [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0002-4960-5882)
 ##### PhD student, Linköping, Department of Biomedical and Clinical Sciences (BKV) 
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/john-doe.png){width=80}
+![](img/xyw.jpg){width=80}
 :::
 ::: {.g-col-10}
 
@@ -75,14 +97,18 @@ The aim is to investigate the molecular biomarkers for the estimation of disease
 
 
 #### Swapnali Barde [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0003-1452-4465)
-
 ##### Postodoctoral researcher, Linköping, Department of Biomedical and Clinical Sciences (BKV) 
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/john-doe.png){width=80}
+![](img/swapnali.jfif){width=80}
 :::
 ::: {.g-col-10}
 
 :::
 :::
+
+
+
+
+
