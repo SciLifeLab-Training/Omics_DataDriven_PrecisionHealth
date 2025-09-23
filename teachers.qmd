@@ -2,7 +2,7 @@
 title: "Course coordinators, Speakers and Instructors"
 date: today
 ---
-#### Course coordinators: Lisa Hoffstedt, Linköping University; Jill Jaworski and Nina Norgren,SciLifeLab Training Hub
+#### Course coordinators: Lisa Hoffstedt, Linköping University; Jill Jaworski and Nina Norgren, SciLifeLab Training Hub
 
 ::: {.grid}
 ::: {.g-col-2}
@@ -162,6 +162,7 @@ In addition to his academic work, he is an entrepreneur and co-foundeer of SurvO
 
 :::
 :::
+
 
 
 
