@@ -16,35 +16,31 @@ Throughout this module, the students will:
 - Learn how to analyze several types of omics.
 :::
 
-### Morning lectures
+### Lectures
 
-#### Lecture 1: Course introduction and omics landscape (Wen Zhong)
-Wen Zhong is ...
-Intro to the course, structure
+#### [9:00-9:50] Lecture 1: Course introduction and omics landscape. Speaker: Wen Zhong
+Wen Zhong is Assistant Professor at the Department of Biomedical and Clinical Sciences at Linköping University.
+She will give an introduction to the course and its structure.
 Evolution of omics technologies sequencing, mass spectr, antibody
 The field of omic data analysis has been rapidly evolving during the last two decades.
 Moreover, the importance of bioinformatics in biomedical research has steadily continued to increase, becoming an almost a required skill for any researcher in the field.
 
-#### Lecture 2: Cutting-edge technologies in the Swedish molecular diagnostics landscape (Colum Walsh)
-Colum Walsh is...
-faicilities in scilife lab, clinical genomics head, more detailed intro to omics in sweden
+#### [10:00-10:50] Lecture 2: Cutting-edge technologies in the Swedish molecular diagnostics landscape. Speaker: Colum Walsh
+Colum Walsh is a Professor at the Department of Biomedical and Clinical Sciences at Linköping University. 
+He is the current director for the Clinical Genomics platform at SciLifeLab.
+He will present the facilities available in SciLifeLab, more detailed intro to omics in sweden
 
-#### Lecture 3: Sequencing technologies (Jyotirmoy Das)
+#### [11:00-11:30] Lecture 3: Sequencing technologies. Speaker: Jyotirmoy Das
 Jyotirmoy Das is ..
 seque , dna seq, rna seq, epigenetics
 
-#### Lecture 4: Proteome and metabolome technologies (Wen Zhong)
+#### [11:30-12:00] Lecture 4: Proteome and metabolome technologies. Speaker: Wen Zhong
 mass spectr based prot and meta, olink, somalogic
 
-### Afternoon workshops 
+### Workshops 
 
-#### Omics data, visualization, processing (Jyotirmoy Das)
+#### [13:00-16:00] Omics data, visualization, processing. Instructor: Jyotirmoy Das
 Dna methy, methyl, Olink
 
-#### methylR, completeolink and olinkwrapper (Jyotirmoy Das)
+#### [13:00-16:00] methylR, completeolink and olinkwrapper. Instructor: Jyotirmoy Das
 
-### Teachers
-
-- Wen Zhong <a href="https://orcid.org/0000-0002-7422-6104" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Colum Walsh <a href="https://orcid.org/0000-0001-9921-7506" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Jyotirmoy Das <a href="https://orcid.org/0000-0002-5649-4658" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
