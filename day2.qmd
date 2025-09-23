@@ -52,7 +52,7 @@ Multi-omics factor analysis (MOFA) is an unsupervised method to integrate multip
 It works by inferring an interpretable low-dimensional representation in terms of a few latent factors.
 
 #### [14:45-16:00 cont.] shiny-WGCNA 
-** Instructor: Jyotirnoy Das **
+** Instructor: Jyotirmoy Das **
 
 Weighted correlation network analysis (WGCNA) is a method to identify groups of highly correlated genes and study their relatoinhips to external traits.
 
