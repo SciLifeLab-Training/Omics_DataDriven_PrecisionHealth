@@ -19,7 +19,7 @@ date: today
 
 **Speaker: Mika Gustafsson**
 
-The lecture introduces network models (e.g., deep neural network) and their applications in AI-based precision medicine.
+The lecture introduces network models (e.g., deep neural network) and their applications in biomedical research.
 
 #### [10:30-10:45] Break 
 
