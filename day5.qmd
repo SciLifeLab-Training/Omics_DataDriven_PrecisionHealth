@@ -16,7 +16,7 @@ date: today
 
 #### [09:00-10:30] Lecture 1: Survom’s Multi-Omics AI for Metabolic Dysfunction–Associated Steatotic Liver Disease (MASLD): From Data to Therapies
 
-** Speaker: Vikash Pandey **
+**Speaker: Vikash Pandey**
 
 The lecture focuses on the startup, Survom, and AI-driven multi-omics tools, with a case study on MASLD drug-target discovery and non-invasive biomarker identification
 
