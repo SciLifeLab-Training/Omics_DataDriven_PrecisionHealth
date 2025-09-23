@@ -151,7 +151,9 @@ In addition to his academic work, he is an entrepreneur and co-foundeer of SurvO
 :::
 
 
-#### Course coordinators: ; Jill Jaworski and Nina Norgren, SciLifeLab Training Hub
+***
+
+#### Course coordinators
 
 ::: {.grid}
 
@@ -171,6 +173,7 @@ In addition to his academic work, he is an entrepreneur and co-foundeer of SurvO
 :::
 
 :::
+
 
 
 
