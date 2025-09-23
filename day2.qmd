@@ -19,7 +19,7 @@ In this module we will present what strategies are currently used by researchers
 ### Afternoon workshops
 
 #### Single-cell sequencing analysis
-Standard pipelines for the analysis of single-cell multi-omics data.
+Standard pipelines for the analysis of single-cell data.
 
 #### General approaches for multi-omics data
 Standard techniques to perform exploratory analyses of multi-omics data.
