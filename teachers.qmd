@@ -1,5 +1,5 @@
 ---
-title: "Course coordinators, Speakers and Instructors"
+title: "Speakers and Instructors"
 date: today
 ---
 
@@ -163,6 +163,7 @@ In addition to his academic work, he is an entrepreneur and co-foundeer of SurvO
 
 **Nina Norgren, SciLifeLab Training Hub**  
 ![](img/nina.jpg){width=110}
+
 
 
 
