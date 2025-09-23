@@ -13,6 +13,8 @@ date: today
  
 :::
 
+### Lectures
+
 #### [09:00-10:30] Lecture 1: Network medicine tools for data-driven health 
 ** Speaker: Mika Gustafsson **
 
@@ -27,6 +29,8 @@ The lecture focuses on an introduction to machine learning methods, and generati
 
  
 #### [12:00-13:00] Lunch break 
+
+### Workshop
 
 #### [13:00-14:00] Workshop 1: Classical ML methods 
 ** Workshop instructor: Xingyue Wang**
