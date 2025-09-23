@@ -9,7 +9,7 @@ date: today
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/wen.jpg){width=80}
+![](img/wen.jpg){width=100}
 :::
 ::: {.g-col-10}
 My research primarily focuses on the integration of multi-omics, the interplay between genetics and phenotypes, and the development of data-driven strategies and tools for precision medicine. 
@@ -149,6 +149,7 @@ In addition to his academic work, he is an entrepreneur who founded a cybersecur
 
 :::
 :::
+
 
 
 
