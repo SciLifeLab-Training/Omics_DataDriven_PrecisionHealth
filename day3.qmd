@@ -19,7 +19,7 @@ date: today
 
 **Speaker: Mika Gustafsson**
 
-The lecture introduces network models, such as deep neural network, and the applications in AI-based precision medicine.
+The lecture introduces network models (e.g., deep neural network) and their applications in AI-based precision medicine.
 
 #### [10:30-10:45] Break 
 
@@ -27,7 +27,7 @@ The lecture introduces network models, such as deep neural network, and the appl
 
 **Speaker: Wen Zhong**
 
-The lecture focuses on an introduction to machine learning methods, and generative AI (e.g. Transformer) and their application in biomedical research.
+The lecture focuses on an introduction to machine learning methods, and generative AI (e.g., Transformer) and their application in biomedical research.
 
  
 #### [12:00-13:00] Lunch break 
