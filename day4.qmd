@@ -1,0 +1,21 @@
+---
+title: "Day 4: Translational Omics & AI research in precision health"
+author: "Wen Zhong"
+date: today
+---
+
+
+### Morning lectures
+
+- AI for health introduction (Wen Zhong)
+- From hypothesis to validation: Systems-based tools for omics (Mika Gustafsson)
+
+### Afternoon seminar
+The reading material will be released before class. In the seminar, students will discuss the research topics related to the reading material, and a short essay will be required as part of the exam after the seminar.
+- AI in Translational Research (Swapnali Barde) 
+
+### Teachers
+
+- Mika Gustafsson 
+- Wen Zhong <a href="https://orcid.org/0000-0002-7422-6104" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+- Swapnali Barde <a href="https://orcid.org/0000-0003-1452-4465" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
