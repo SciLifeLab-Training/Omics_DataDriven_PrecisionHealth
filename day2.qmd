@@ -19,7 +19,7 @@ By the end of this workshop, participants will be able to
 
 #### [9:00-10:30] Single-cell sequencing methodology 
 
-** Speaker: Antonio Lentini **
+**Speaker: Antonio Lentini**
 
 Single-cell and spatial omics are among the latest advances in omics technologies.
 Single-cell omics uncover the diversity of cell types and states, while spatial omics add information on their position and interactions. 
@@ -29,7 +29,7 @@ Combined, they provide a powerful framework to map tissues and understand health
 
 #### [10:45-12:00] Exploratory analysis of multi-omics data 
 
-** Speaker: Alberto Zenere **
+**Speaker: Alberto Zenere**
 
 Analyzing paired omics generated from the same biological samples promises to give a more holistic view of the biological processes.
 However, there remain several practical questions on how to integrate multi-omics effectively. 
@@ -39,26 +39,26 @@ In this module we will present what strategies are currently used by researchers
 
 #### [13:00-14:00] Single-cell sequencing analysis
 
-** Instructor: Antonio Lentini **
+**Instructor: Antonio Lentini**
 
 Standard pipelines for the analysis of single-cell data.
 
 #### [14:00-14:45] General approaches for multi-omics data 
 
-** Instructor: Alberto Zenere **
+**Instructor: Alberto Zenere**
 
 Standard techniques to perform exploratory analyses of multi-omics data.
 
 #### [14:45-16:00] Multi-omics factor analysis 
 
-** Instructor: Xiangfu Zhong **
+**Instructor: Xiangfu Zhong**
 
 Multi-omics factor analysis (MOFA) is an unsupervised method to integrate multiple omics datasets. 
 It works by inferring an interpretable low-dimensional representation in terms of a few latent factors.
 
 #### [14:45-16:00 cont.] shiny-WGCNA 
 
-** Instructor: Jyotirmoy Das **
+**Instructor: Jyotirmoy Das**
 
 Weighted correlation network analysis (WGCNA) is a method to identify groups of highly correlated genes and study their relatoinhips to external traits.
 
