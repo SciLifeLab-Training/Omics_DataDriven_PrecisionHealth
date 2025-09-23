@@ -19,7 +19,7 @@ Throughout this module, the students will:
 ### Lectures
 
 #### [9:00-9:50] Lecture 1: Course introduction and omics landscape. 
-**Speaker: Wen Zhong**
+** Speaker: Wen Zhong **
 
 She will give an introduction to the course and its structure.
 Evolution of omics technologies sequencing, mass spectr, antibody
