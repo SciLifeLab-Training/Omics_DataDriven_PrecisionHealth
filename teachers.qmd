@@ -9,7 +9,7 @@ date: today
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/wen.jpg){width=100}
+![](img/wen.jpg){width=110}
 :::
 ::: {.g-col-10}
 My research primarily focuses on the integration of multi-omics, the interplay between genetics and phenotypes, and the development of data-driven strategies and tools for precision medicine. 
@@ -23,7 +23,7 @@ The aim is to investigate molecular biomarkers for estimating disease risk, earl
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/colum.jpg){width=80}
+![](img/colum.jpg){width=110}
 :::
 ::: {.g-col-10}
 Colum Walsh is a Professor at the Department of Biomedical and Clinical Sciences at Linköping University. 
@@ -38,7 +38,7 @@ His research bridges molecular biology and health, with a focus that includes th
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/mika.jpg){width=80}
+![](img/mika.jpg){width=110}
 :::
 ::: {.g-col-10}
 Professor Mika Gustafsson is a leading researcher in bioinformatics at Linköping University, specializing in translational bioinformatics and artificial intelligence. 
@@ -51,7 +51,7 @@ His work focuses on developing interpretable AI models to analyze complex biolog
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/antonio.jpg){width=80}
+![](img/antonio.jpg){width=110}
 :::
 ::: {.g-col-10}
 Cancer develops over time, with different subclones acquiring new mutations that help the tumor grow and resist treatment. 
@@ -66,7 +66,7 @@ Ultimately, we aim to identify new therapeutic targets with the vision of improv
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/vikash.jpg){width=80}
+![](img/vikash.jpg){width=110}
 :::
 ::: {.g-col-10}
 Vikash Pandey, a bioinformatician at Umeå University, conducts computational research on malaria parasites, focusing on genome-scale analyses and the identification of key metabolic pathways involved in transmission. 
@@ -80,7 +80,7 @@ In addition to his academic work, he is an entrepreneur who founded a cybersecur
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/alberto.jpeg){width=80}
+![](img/alberto.jpeg){width=110}
 :::
 ::: {.g-col-10}
 
@@ -93,7 +93,7 @@ In addition to his academic work, he is an entrepreneur who founded a cybersecur
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/xiangyu.png){width=80}
+![](img/xiangyu.png){width=110}
 :::
 ::: {.g-col-10}
 
@@ -106,7 +106,7 @@ In addition to his academic work, he is an entrepreneur who founded a cybersecur
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/xiangfu.jpg){width=80}
+![](img/xiangfu.jpg){width=110}
 :::
 ::: {.g-col-10}
 
@@ -118,7 +118,7 @@ In addition to his academic work, he is an entrepreneur who founded a cybersecur
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/jyotirmoy.jpg){width=80}
+![](img/jyotirmoy.jpg){width=110}
 :::
 ::: {.g-col-10}
 
@@ -130,7 +130,7 @@ In addition to his academic work, he is an entrepreneur who founded a cybersecur
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/xyw.jpg){width=80}
+![](img/xyw.jpg){width=110}
 :::
 ::: {.g-col-10}
 
@@ -143,12 +143,13 @@ In addition to his academic work, he is an entrepreneur who founded a cybersecur
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/swapnali.jfif){width=80}
+![](img/swapnali.jfif){width=110}
 :::
 ::: {.g-col-10}
 
 :::
 :::
+
 
 
 
