@@ -12,6 +12,7 @@ date: today
 
 ### Afternoon seminar
 The reading material will be released before class. In the seminar, students will discuss the research topics related to the reading material, and a short essay will be required as part of the exam after the seminar.
+
 - AI in Translational Research (Swapnali Barde) 
 
 ### Teachers
