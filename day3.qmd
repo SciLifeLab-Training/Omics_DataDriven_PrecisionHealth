@@ -38,7 +38,7 @@ The lecture focuses on an introduction to machine learning methods, and generati
 
 **Workshop instructor: Xingyue Wang**
 
-The workshop aims to understand the general modeling problem and the basic pipeline in model training and testing.
+The workshop aims to understand common modeling tasks, such as regression, binary classification, and multi-class classification, and the basic pipeline for training and evaluating models.
 
 
 #### [14:00-16:00] Workshop 2: Generative AI models for omics analysis 
