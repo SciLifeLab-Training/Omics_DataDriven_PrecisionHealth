@@ -18,8 +18,8 @@ Throughout this module, the students will:
 
 ### Lectures
 
-#### [9:00-9:50] Lecture 1: Course introduction and omics landscape. Speaker: Wen Zhong
-Wen Zhong is Assistant Professor at the Department of Biomedical and Clinical Sciences at Linköping University.
+#### [9:00-9:50] Lecture 1: Course introduction and omics landscape. 
+##### Speaker: Wen Zhong
 She will give an introduction to the course and its structure.
 Evolution of omics technologies sequencing, mass spectr, antibody
 The field of omic data analysis has been rapidly evolving during the last two decades.
