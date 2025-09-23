@@ -33,6 +33,19 @@ His research bridges molecular biology and health, with a focus that includes th
 :::
 
 
+#### Mika Gustafsson [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0002-0048-4063) 
+##### Professor, Linköping, Department of Physics, Chemistry and Biology (IFM) 
+
+::: {.grid}
+::: {.g-col-2}
+![](img/mika.jpg){width=80}
+:::
+::: {.g-col-10}
+Professor Mika Gustafsson is a leading researcher in bioinformatics at Linköping University, specializing in translational bioinformatics and artificial intelligence. 
+His work focuses on developing interpretable AI models to analyze complex biological data, aiming to enhance personalized medicine and improve understanding of disease mechanisms.
+:::
+:::
+
 #### Antonio Lentini [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0003-1239-5495)
 ##### Assistant Professor, Linköping, Department of Biomedical and Clinical Sciences (BKV)
 
@@ -44,6 +57,20 @@ His research bridges molecular biology and health, with a focus that includes th
 Cancer develops over time, with different subclones acquiring new mutations that help the tumor grow and resist treatment. 
 Our mission is to uncover and target the mechanisms driving tumor progression through cutting-edge single-cell and computational methods.
 Ultimately, we aim to identify new therapeutic targets with the vision of improving long-term survival for cancer patients.
+:::
+:::
+
+
+#### Vikash Pandey [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0001-5184-8149)
+##### Staff scientist, Umeå, Department of Molecular Biology
+
+::: {.grid}
+::: {.g-col-2}
+![](img/vikash.jpg){width=80}
+:::
+::: {.g-col-10}
+Vikash Pandey, a bioinformatician at Umeå University, conducts computational research on malaria parasites, focusing on genome-scale analyses and the identification of key metabolic pathways involved in transmission. 
+In addition to his academic work, he is an entrepreneur who founded a cybersecurity startup as a teenager and has developed innovative tools in both the tech and bioinformatics sectors.
 :::
 :::
 
@@ -122,6 +149,7 @@ Ultimately, we aim to identify new therapeutic targets with the vision of improv
 
 :::
 :::
+
 
 
 
