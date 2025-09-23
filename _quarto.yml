@@ -16,14 +16,10 @@ website:
     search: true
     contents: 
       - index.qmd 
+      - setup.qmd
       - schedule.qmd
-      - module1.qmd
-      - module2.qmd
-      - module3.qmd
-      - module4.qmd
-      - module5.qmd
-      - module6.qmd
-      - project.qmd
+      - day1.qmd
+      - day2.qmd
       - teachers.qmd
   navbar:
     background: "#A7C947"
