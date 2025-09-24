@@ -23,6 +23,7 @@ website:
       - day3.qmd
       - day4.qmd
       - day5.qmd
+      - project.qmd
       - teachers.qmd
   navbar:
     background: "#A7C947"
