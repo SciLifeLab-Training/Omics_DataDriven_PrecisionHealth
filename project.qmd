@@ -7,29 +7,30 @@ date: today
 The examination of the course consists of two parts: 
 
 - a **short essay** (1-2 pages) following the seminar on Day 4
-- a **group project** on multi omics data, with presentation the **30rd October**.
+- a **group project** on multi omics data, with presentation on **30th October 2025**.
 
 
 #### Details on the group project
 The goal is for the students to perform omics data analysis using the methodologies presented in the course.
 
-** Datasets **
+**Datasets**
 During the first day of the course, we will present three multi-omics datasets. 
-And, for each dataset, we will propose two different objectives, for a total of six different projects.
+For each dataset, we will propose two different objectives, for a total of six projects.
 
-** Groups **
+**Groups**
 The students will be divided into groups of 4-5, which will be communicated during the first week of the course.
-The students will be able to express their preferred dataset, but we may not be able to satisfy everyone.
+The students will be able to express their preferred dataset, but we may not be able to satisfy all preferences.
 
-** Presentations **
-All presentations will be held the **30rd October 2025**, via zoom (the link will be communicated during the course).
+**Presentations**
+All presentations will be held on **30th October 2025**, via zoom (the link will be communicated during the course).
 The presentations will be organized in sessions: each session will center around the same dataset (*e.g.*, two presentations per session).
 
-Key points: 
+**Key points:**
+
 - It is mandatory to be present at both presentation of your session. You are also welcome to attend all the sessions.
 - Each presentation should last approximately 30 minutes, followed by 10 minutes of discussion (with primarily questions from the second group in the session). 
-- You are expected to actively participate in the discussion of the other group in the same session.
-- Everybody should contribute to the preparation and presentation of their group.
-- Suggested skeleton: brief background, explain which techniques you chose and why, present your results in the form of figures or tables, conclusions, limitations. 
+- You are expected to actively participate in the discussion of the other group in your session.
+- Everybody should contribute to the preparation and presentation of their group's work.
+- Suggested skeleton: brief background, explain which techniques you chose and why, present your results (figures or tables), conclusions, and limitations. 
 
 
