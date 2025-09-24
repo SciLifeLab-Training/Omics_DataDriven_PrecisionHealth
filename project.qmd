@@ -1,13 +1,37 @@
 ---
-title: "Hands-on project and data analysis"
+title: "Examination"
 author: "Wen Zhong"
 date: today
 ---
 
-The students will be randomly divided into groups of approximately 4 people.
-For this project, the students will be given a synthetic multi-omics dataset; the objective is to perform data integration analyses and to present the results during an oral presentation (tentative date: 30rd October 2025).
+The examination of the course consists of two parts: 
+
+- a short essay (1-2 pages) following the seminar on Day 4
+- a group project on multi omics data, with presentation the **30rd October**.
 
 
-## Contributors
+#### Details on the project course
+The objective is for the students to perform omics data analysis using the methodologies presented in the course.
 
-- Wen Zhong <a href="https://orcid.org/0000-0002-7422-6104" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+During the first day of the course, we will present three multi-omics datasets. 
+And, for each dataset, we will propose two different objectives, for a total of six different projects.
+
+Students will be divided into grups of 4-5.
+
+The students will be able to express their preferred dataset.
+
+
+
+and to present the results during an oral presentation (tentative date: 30rd October 2025).
+
+
+schedule of presentations
+
+Presentation: 30 minutes, 10 minutes discussion (with questions from the other group). 
+Everybody should contribute.
+Brief background, figures generated, methods (why were they chosen), conclusions, limitations. 
+
+One session per dataset, mandatory to be present at least for that.
+
+Time
+
