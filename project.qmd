@@ -14,14 +14,17 @@ The examination of the course consists of two parts:
 The goal is for the students to perform omics data analysis using the methodologies presented in the course.
 
 **Datasets**
+
 During the first day of the course, we will present three multi-omics datasets. 
 For each dataset, we will propose two different objectives, for a total of six projects.
 
 **Groups**
+
 The students will be divided into groups of 4-5, which will be communicated during the first week of the course.
 The students will be able to express their preferred dataset, but we may not be able to satisfy all preferences.
 
 **Presentations**
+
 All presentations will be held on **30th October 2025**, via zoom (the link will be communicated during the course).
 The presentations will be organized in sessions: each session will center around the same dataset (*e.g.*, two presentations per session).
 
