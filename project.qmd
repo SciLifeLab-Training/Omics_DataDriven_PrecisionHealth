@@ -7,7 +7,7 @@ date: today
 The examination of the course consists of two parts: 
 
 - a **short essay** (1-2 pages) following the seminar on Day 4
-- a **group project** on multi omics data, with presentation on **30th October 2025**.
+- a **group project** on multi omics data, with presentation on **24th October 2025**.
 
 
 #### Details on the group project
@@ -25,7 +25,7 @@ The students will be able to express their preferred dataset, but we may not be 
 
 **Presentations**
 
-All presentations will be held on **30th October 2025**, via zoom (the link will be communicated during the course).
+All presentations will be held on **24th October 2025**, via zoom (the link will be communicated during the course).
 The presentations will be organized in sessions: each session will center around the same dataset (*e.g.*, two presentations per session).
 
 **Key points:**
