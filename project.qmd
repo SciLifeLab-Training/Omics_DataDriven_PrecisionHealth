@@ -10,28 +10,25 @@ The examination of the course consists of two parts:
 - a group project on multi omics data, with presentation the **30rd October**.
 
 
-#### Details on the project course
-The objective is for the students to perform omics data analysis using the methodologies presented in the course.
+#### Details on the group project
+The goal is for the students to perform omics data analysis using the methodologies presented in the course.
 
+** Datasets **
 During the first day of the course, we will present three multi-omics datasets. 
 And, for each dataset, we will propose two different objectives, for a total of six different projects.
 
-Students will be divided into grups of 4-5.
+** Groups **
+The students will be divided into grups of 4-5, which will be communicated during the first week of the course.
+The students will be able to express their preferred dataset, but we may not be able to satisfy everyone.
 
-The students will be able to express their preferred dataset.
+** Presentations **
+All presentations will be held the **30rd October 2025**, via zoom (the link will be communicated during the course).
+The presentations will be organized in sessions, one per every dataset.
 
+Key points: 
+- It is mandatory to be present at both presentation
+- Each presentation should last approximately 30 minutes, followed by 10 minutes of discussion (with questions from the other group). 
+- Everybody should contribute.
+- Suggested skeleton: brief background, figures generated, methods (why were they chosen), conclusions, limitations. 
 
-
-and to present the results during an oral presentation (tentative date: 30rd October 2025).
-
-
-schedule of presentations
-
-Presentation: 30 minutes, 10 minutes discussion (with questions from the other group). 
-Everybody should contribute.
-Brief background, figures generated, methods (why were they chosen), conclusions, limitations. 
-
-One session per dataset, mandatory to be present at least for that.
-
-Time
 
