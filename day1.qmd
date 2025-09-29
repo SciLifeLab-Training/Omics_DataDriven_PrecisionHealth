@@ -29,7 +29,7 @@ The first lecture of the course will introduce the course and provide a brief ov
 
 **Speaker: Colum Walsh**
 
-Dr. Colum Walsh, current Director of the Clinical Genomics Platform at SciLifeLab, will present the facilities and technologies available to researchers in Sweden, including genomics, proteomics, metabolomics, bioimaging, and bioinformatics
+The lecture introduces the facilities and technologies available to researchers in Sweden, including genomics, proteomics, metabolomics, bioimaging, and bioinformatics
 
 
 #### [10:50-11:00] Break
