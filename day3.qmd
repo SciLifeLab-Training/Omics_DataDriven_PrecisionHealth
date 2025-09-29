@@ -19,7 +19,7 @@ date: today
 
 **Speaker: Mika Gustafsson**
 
-The lecture introduces network models (e.g., deep neural network) and their applications in biomedical research.
+The network models (e.g., deep neural network) and their applications in biomedical research.
 
 #### [10:30-10:45] Break 
 
@@ -27,7 +27,7 @@ The lecture introduces network models (e.g., deep neural network) and their appl
 
 **Speaker: Wen Zhong**
 
-The lecture focuses on an introduction to machine learning methods, and generative AI (e.g., Transformer) and their application in biomedical research.
+Introduction of machine learning methods, and generative AI (e.g., Transformer) and their application in biomedical research.
 
  
 #### [12:00-13:00] Lunch break 
@@ -38,14 +38,14 @@ The lecture focuses on an introduction to machine learning methods, and generati
 
 **Workshop instructor: Xingyue Wang**
 
-The workshop aims to understand common modeling tasks, such as regression, binary classification, and multi-class classification, and the basic pipeline for training and evaluating models.
+Common modeling tasks, such as regression, binary classification, and multi-class classification, and the basic pipeline for training and evaluating models.
 
 
 #### [14:00-16:00] Workshop 2: Generative AI models for omics analysis 
 
 **Workshop instructor: Xiangyu Qiao** 
 
-The workshop aims to illustrate the application of pre-trained generative AI models for the classification of cell types and identification of cell markers.
+The application of pre-trained generative AI models for the classification of cell types and the identification of cell markers.
 
 
  
