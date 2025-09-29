@@ -18,7 +18,7 @@ date: today
 
 **Speaker: Vikash Pandey**
 
-The lecture focuses on the startup, Survom, and AI-driven multi-omics tools, with a case study on MASLD drug-target discovery and non-invasive biomarker identification
+The startup, Survom, and AI-driven multi-omics tools, with a case study on MASLD drug-target discovery and non-invasive biomarker identification
 
 #### [10:30-10:45] Break
 
@@ -26,7 +26,7 @@ The lecture focuses on the startup, Survom, and AI-driven multi-omics tools, wit
 
 **Speaker: Ali Moshfegh**
 
-The lecture introduces how to initiate an innovation project, translating a research study into practical applications.
+Introduction on how to initiate an innovation project, translating a research study into practical applications.
 
 #### [12:00-13:00] Lunch break
 
