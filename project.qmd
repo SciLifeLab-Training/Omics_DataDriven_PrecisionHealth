@@ -16,7 +16,7 @@ The goal is for the students to perform omics data analysis using the methodolog
 **Datasets**
 
 Two publicly available multi-omics datasets will be provided for the group project. 
-For each dataset, each group can choose at least 3 omics and a major research question of interest.
+For each dataset, each group can choose **at least 3 omics and a major research question of interest**.
 
 **Groups**
 
@@ -24,12 +24,12 @@ The students will be divided into 4-5 groups, which will be communicated during 
 
 **Presentations**
 
-All presentations will be held on **24th October 2025**, via zoom (the link will be communicated during the course).
+All presentations will be held on **24th October 2025**, via zoom.  
 The presentations will be organized in sessions: each session will center around the same dataset.
 
 **Key points:**
 
-- The group oral presentation should last approximately 30 minutes, followed by 10 minutes of discussion (with questions from the other group working on the same dataset). 
+- **The group oral presentation** should last approximately **30 minutes**, followed by **10 minutes of discussion** (with questions from the other group working on the same dataset). 
 - You are expected to actively participate in the discussion of the other group working on the same dataset.
 - Everybody should contribute to the preparation and presentation of their group's work.
 - Suggested skeleton: brief background, explain which techniques and research question you chose and why, present your results (figures or tables), conclusions, reflections, etc. 
