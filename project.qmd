@@ -16,12 +16,11 @@ The goal is for the students to perform omics data analysis using the methodolog
 **Datasets**
 
 During the first day of the course, we will present two multi-omics datasets. 
-For each dataset, we will propose two different objectives, for a total of six projects.
+For each dataset, students can choose at least 3 omics and a research topic of interest.
 
 **Groups**
 
-The students will be divided into groups of 4-5, which will be communicated during the first week of the course.
-The students will be able to express their preferred dataset, but we may not be able to satisfy all preferences.
+The students will be divided into 4-5 groups, which will be communicated during the first week of the course. At least 2 groups will work on the same datasets, but might different omics.
 
 **Presentations**
 
@@ -30,9 +29,8 @@ The presentations will be organized in sessions: each session will center around
 
 **Key points:**
 
-- It is mandatory to be present at both presentation of your session. You are also welcome to attend all the sessions.
-- Each presentation should last approximately 30 minutes, followed by 10 minutes of discussion (with primarily questions from the second group in the session). 
-- You are expected to actively participate in the discussion of the other group in your session.
+- Each presentation should last approximately 30 minutes, followed by 10 minutes of discussion (with primarily questions from the other group working on the same dataset). 
+- You are expected to actively participate in the discussion of the other group working on the same dataset.
 - Everybody should contribute to the preparation and presentation of their group's work.
 - Suggested skeleton: brief background, explain which techniques you chose and why, present your results (figures or tables), conclusions, and limitations. 
 
