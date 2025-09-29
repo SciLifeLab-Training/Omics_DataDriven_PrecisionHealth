@@ -27,11 +27,12 @@ The students will be divided into 4-5 groups, which will be communicated during 
 All presentations will be held on **24th October 2025**, via Zoom.  
 The presentations will be organized in sessions: each session will center around the same dataset.
 
-**Key points:**
+**Key points:**  
 
+- In the oral presentation, present your research question, the design of your analyses, key results, and your reflections on the data analysis.
 - **The group oral presentation** should last approximately **30 minutes**, followed by **15 minutes of discussion** (with questions from all the other groups). 
 - You are expected to actively participate in the discussion of all group presentations.
 - Everybody should contribute to the preparation and presentation of their group's work.
-- Suggested skeleton: research question, the design of your analyses, key results, and your reflections on the data analysis.
+
 
 
