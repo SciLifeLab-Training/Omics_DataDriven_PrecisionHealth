@@ -8,11 +8,11 @@ date: today
 
 ### Learning objectives  
 The field of omic data analysis has been rapidly evolving during the last few decades.
-Moreover, the importance of bioinformatics in biomedical research has steadily continued to increase, becoming an almost a required skill for any researcher in the field.
+Moreover, the importance of bioinformatics in biomedical research has steadily continued to increase, becoming almost a required skill for any researcher in the field.
 Throughout this module, the students will:
 
-- Know lanscape of omic technologies
-- Learn which omic may be more suitable for a given research question.
+- Know the landscape of omic technologies
+- Learn which omics may be more suitable for a given research question.
 - Learn how to analyze several types of omics.
 :::
 
@@ -22,7 +22,7 @@ Throughout this module, the students will:
 
 **Speaker: Wen Zhong**
 
-The first lecture of the course introduces the course and provide a brief overview of the evolution of omics technologies, including sequencing, mass spectrometry, and antibody-based techniques.
+The first lecture of the course introduces the course and provides a brief overview of the evolution of omics technologies, including sequencing, mass spectrometry, and antibody-based techniques.
 
 
 #### [10:00-10:50] Lecture 2: Cutting-edge technologies in the Swedish molecular diagnostics landscape
