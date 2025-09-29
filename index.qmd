@@ -9,7 +9,7 @@ date: today
 ## About
 
 **Organizers:** 	                Linköping University and SciLifeLab  
-**Date:**	   	                   October, 2025 (week 41 and 1 day on week 44)    
+**Date:**	   	                   October 2025 (week 41 and 1 day on week 44)    
 **Location:**		 			    Linköping University (Campus US) and Zoom  
 **Suggested number of credits:** 	4.5 hp  
 
