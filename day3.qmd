@@ -43,7 +43,7 @@ The workshop aims to understand common modeling tasks, such as regression, binar
 
 #### [14:00-16:00] Workshop 2: Generative AI models for omics analysis 
 
-**Workshop instructor: Xingyu Qiao** 
+**Workshop instructor: Xiangyu Qiao** 
 
 The workshop aims to illustrate the application of pre-trained generative AI models for the classification of cell types and identification of cell markers.
 
