@@ -16,7 +16,7 @@ The goal is for the students to perform omics data analysis using the methodolog
 **Datasets**
 
 Two publicly available multi-omics datasets will be provided for the group project. 
-For each dataset, each group can choose **at least 3 omics and a major research question of interest**.
+For each dataset, each group can choose **at least 2 omics and a major research question of interest**.
 
 **Groups**
 
