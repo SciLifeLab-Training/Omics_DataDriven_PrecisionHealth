@@ -22,7 +22,7 @@ Throughout this module, the students will:
 
 **Speaker: Wen Zhong**
 
-In the first lecture of the course, Assistant Professor Wen Zhong will give an introduction to its contents and its structure.
+In the first lecture of the course, Dr. Wen Zhong will give an introduction to its contents and its structure.
 She will also give an overview of the evolution of omics technologies, including sequencing, mass spectrometry, antibody-based techniques.
 
 
@@ -30,7 +30,7 @@ She will also give an overview of the evolution of omics technologies, including
 
 **Speaker: Colum Walsh**
 
-Colum Walsh, current Director of the Clinical Genomics Platform at SciLifeLab, will present the facilities and cutting-edge technologies available to researchers in Sweden, including genomics, proteomics, metabolomics, bioimaging, and bioinformatics
+Dr. Colum Walsh, current Director of the Clinical Genomics Platform at SciLifeLab, will present the facilities and cutting-edge technologies available to researchers in Sweden, including genomics, proteomics, metabolomics, bioimaging, and bioinformatics
 
 
 #### [10:50-11:00] Break
