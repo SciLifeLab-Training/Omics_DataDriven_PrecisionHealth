@@ -43,23 +43,16 @@ In this module we will present what strategies are currently used by researchers
 
 Standard pipelines for the analysis of single-cell data.
 
-#### [14:00-14:45] General approaches for multi-omics data 
+#### [14:00-15:00] General approaches for multi-omics data 
 
 **Instructor: Alberto Zenere**
 
 Standard techniques to perform exploratory analyses of multi-omics data.
 
-#### [14:45-16:00] Multi-omics factor analysis 
+#### [15:00-16:00] Multi-omics factor analysis 
 
 **Instructor: Xiangfu Zhong**
 
 Multi-omics factor analysis (MOFA) is an unsupervised method to integrate multiple omics datasets. 
 It works by inferring an interpretable low-dimensional representation in terms of a few latent factors.
-
-#### [14:45-16:00 cont.] shiny-WGCNA 
-
-**Instructor: Jyotirmoy Das**
-
-Weighted correlation network analysis (WGCNA) is a method to identify groups of highly correlated genes and study their relatoinhips to external traits.
-
 
