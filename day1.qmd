@@ -22,8 +22,7 @@ Throughout this module, the students will:
 
 **Speaker: Wen Zhong**
 
-In the first lecture of the course, Dr. Wen Zhong will give an introduction to its contents and its structure.
-She will also give an overview of the evolution of omics technologies, including sequencing, mass spectrometry, antibody-based techniques.
+The first lecture of the course will introduce the course and provide a brief overview of the evolution of omics technologies, including sequencing, mass spectrometry, and antibody-based techniques.
 
 
 #### [10:00-10:50] Lecture 2: Cutting-edge technologies in the Swedish molecular diagnostics landscape
