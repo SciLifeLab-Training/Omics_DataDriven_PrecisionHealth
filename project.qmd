@@ -29,7 +29,7 @@ The presentations will be organized in sessions: each session will center around
 
 **Key points:**
 
-- **The group oral presentation** should last approximately **30 minutes**, followed by **10 minutes of discussion** (with questions from all the other groups). 
+- **The group oral presentation** should last approximately **30 minutes**, followed by **15 minutes of discussion** (with questions from all the other groups). 
 - You are expected to actively participate in the discussion of all group presentations.
 - Everybody should contribute to the preparation and presentation of their group's work.
 - Suggested skeleton: brief background, explain which techniques and research question you chose and why, present your results (figures or tables), conclusions, reflections, etc. 
