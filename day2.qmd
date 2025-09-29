@@ -33,7 +33,7 @@ Combined, they provide a powerful framework to map tissues and understand health
 
 Analyzing paired omics generated from the same biological samples promises to give a more holistic view of the biological processes.
 However, there remain several practical questions on how to integrate multi-omics effectively. 
-In this module we will present what strategies are currently used by researchers for this purpose.
+In this module, we will present what strategies are currently used by researchers for this purpose.
 
 ### Workshops
 
