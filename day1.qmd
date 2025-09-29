@@ -29,7 +29,7 @@ The first lecture of the course will introduce the course and provide a brief ov
 
 **Speaker: Colum Walsh**
 
-Dr. Colum Walsh, current Director of the Clinical Genomics Platform at SciLifeLab, will present the facilities and cutting-edge technologies available to researchers in Sweden, including genomics, proteomics, metabolomics, bioimaging, and bioinformatics
+Dr. Colum Walsh, current Director of the Clinical Genomics Platform at SciLifeLab, will present the facilities and technologies available to researchers in Sweden, including genomics, proteomics, metabolomics, bioimaging, and bioinformatics
 
 
 #### [10:50-11:00] Break
@@ -62,6 +62,6 @@ Attendees will learn how to handle epigenetic and proteomics datasets using mode
 
 **Instructor: Jyotirmoy Das**
 
-MethylR is an R-based tool designed for the analysis and visualization of DNA methylation data, including differential methylation and functional annotation. 
+MethylR is an R-based tool designed for the analysis and visualization of DNA methylation data, including differential methylation and functional annotation.  
 CompleteOlink and OlinkWrapper provide streamlined pipelines for processing, quality control, and analysis of Olink proteomics data, enabling efficient handling of large-scale protein expression datasets.  
 Weighted correlation network analysis (WGCNA) is a method to identify groups of highly correlated genes and study their relatoinhips to external traits.
