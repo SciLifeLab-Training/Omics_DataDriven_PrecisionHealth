@@ -6,7 +6,7 @@ date: today
 
 The examination of the course consists of two parts: 
 
-- a **short essay** (1-2 pages) following the seminar on Day 4
+- a **self-reflection** (1-2 pages) following the seminar on Day 4
 - a **group project** on multi omics data, with presentation on **24th October 2025**.
 
 
@@ -15,7 +15,7 @@ The goal is for the students to perform omics data analysis using the methodolog
 
 **Datasets**
 
-During the first day of the course, we will present three multi-omics datasets. 
+During the first day of the course, we will present two multi-omics datasets. 
 For each dataset, we will propose two different objectives, for a total of six projects.
 
 **Groups**
