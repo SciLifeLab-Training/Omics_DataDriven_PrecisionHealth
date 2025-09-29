@@ -28,7 +28,7 @@ The lecture introduces AI and other bioinformatic tools in translational researc
 
 **Speaker: Mika Gustafsson**
 
-The lecture focuses on the application cases of omics and AI techniques in translation research.
+The lecture focuses on the application cases of omics and AI techniques in translational research.
 
 
 #### [12:00-13:00] Lunch break
