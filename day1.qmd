@@ -22,7 +22,7 @@ Throughout this module, the students will:
 
 **Speaker: Wen Zhong**
 
-The first lecture of the course will introduce the course and provide a brief overview of the evolution of omics technologies, including sequencing, mass spectrometry, and antibody-based techniques.
+The first lecture of the course introduces the course and provide a brief overview of the evolution of omics technologies, including sequencing, mass spectrometry, and antibody-based techniques.
 
 
 #### [10:00-10:50] Lecture 2: Cutting-edge technologies in the Swedish molecular diagnostics landscape
@@ -39,14 +39,14 @@ The lecture introduces the facilities and technologies available to researchers 
 
 **Speaker: Jyotirmoy Das**
 
-This lecture will focus on modern high-throughput sequencing techniques, with applications to DNA, RNA and epigenetic sequencing.
+This lecture focuses on modern high-throughput sequencing techniques, with applications to DNA, RNA and epigenetic sequencing.
 
 
 #### [11:30-12:00] Lecture 4: Proteome and metabolome technologies
 
 **Speaker: Wen Zhong**
 
-This lecture will present different technolgies that can be used to generate proteomics and metabolomics data, including mass spectrometry, antibody-based (*e.g.*, Olink) and aptamer-based (*e.g.* SOMAScan).
+This lecture presents different technolgies that can be used to generate proteomics and metabolomics data, including mass spectrometry, antibody-based (*e.g.*, Olink) and aptamer-based (*e.g.* SOMAScan).
 
 ### Workshops 
 
