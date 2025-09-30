@@ -1,13 +1,39 @@
 ---
-title: "Hands-on project and data analysis"
+title: "Examination"
 author: "Wen Zhong"
 date: today
 ---
 
-The students will be randomly divided into groups of approximately 4 people.
-For this project, the students will be given a synthetic multi-omics dataset; the objective is to perform data integration analyses and to present the results during an oral presentation (tentative date: 30rd October 2025).
+The examination of the course consists of two parts: 
+
+- a **self-reflection** (1000~1500 words) on the lectures/workshops/seminar
+- a **group project** on multi omics data, with oral presentation on **24th October 2025**
 
 
-## Contributors
+#### Details on the group project
+The goal is for the students to perform omics data analysis using the methodologies presented in the course.
 
-- Wen Zhong <a href="https://orcid.org/0000-0002-7422-6104" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+**Datasets**
+
+Two publicly available multi-omics datasets will be provided for the group project. 
+For each dataset, each group can choose **at least 2 omics and a major research question of interest**.
+
+**Groups**
+
+The students will be divided into different groups, which will be communicated during the first week of the course. At least 2 groups will work on the same datasets, but might work on different omics.
+
+**Presentations**
+
+All presentations will be held on **24th October 2025**, via Zoom.  
+The presentations will be organized in sessions: each session will center around the same dataset.
+
+**Key points:**  
+
+
+- **The group oral presentation** should last approximately **30 minutes**, followed by **15 minutes of discussion** (with questions from all the other groups). 
+- In the oral presentation, present your research question, the design of your analyses, key results, and your reflections on the data analysis.  
+- You are expected to actively participate in the discussion of all group presentations.
+- Everybody should contribute to the preparation and presentation of their group's work.
+
+
+
