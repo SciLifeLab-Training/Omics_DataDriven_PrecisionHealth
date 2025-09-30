@@ -1,38 +1,58 @@
 ---
-title: "Day 2: Single-cell omics and multi-omics integration"
+title: "Day 2: From hypothesis to validation: Systems-based tools for omics"
 author: "Wen Zhong"
 date: today
 ---
 
+::: {.callout-tip}
 
-### Morning lectures
+### Learning objectives  
+Gain an understanding of cutting-edge omics technologies and their potential for exploring biological complexity. 
+By the end of this workshop, participants will be able to
 
-#### Single-cell and spatial omics
+- Understand the applications of single-cell techniques, spatial omics and multi-omics data.
+- Be able to analyse single-cell data.
+- Learn the main strategies to analyse multi-omics.
+:::
+
+### Lectures
+
+#### [9:00-10:30] Single-cell sequencing methodology 
+
+**Speaker: Antonio Lentini**
+
+Single-cell and spatial omics are among the latest advances in omics technologies.
 Single-cell omics uncover the diversity of cell types and states, while spatial omics add information on their position and interactions. 
 Combined, they provide a powerful framework to map tissues and understand health and disease at unprecedented resolution.
 
-#### Exploratory analysis of multi-omics data
+#### [10:30-10:45] Break 
+
+#### [10:45-12:00] Exploratory analysis of multi-omics data 
+
+**Speaker: Alberto Zenere**
+
 Analyzing paired omics generated from the same biological samples promises to give a more holistic view of the biological processes.
 However, there remain several practical questions on how to integrate multi-omics effectively. 
-In this module we will present what strategies are currently used by researchers for this purpose.
+In this module, we will present what strategies are currently used by researchers for this purpose.
 
-### Afternoon workshops
+### Workshops
 
-#### Single-cell multi-omics
-Standard pipelines for the analysis of single-cell multi-omics data.
+#### [13:00-14:00] Single-cell sequencing analysis
 
-#### General approaches for multi-omics data
+**Instructor: Antonio Lentini**
+
+Standard pipelines for the analysis of single-cell data.
+
+#### [14:00-15:00] General approaches for multi-omics data 
+
+**Instructor: Alberto Zenere**
+
 Standard techniques to perform exploratory analyses of multi-omics data.
 
-#### Multi-omics factor analysis (MOFA)
-Unsupervised method to integrate multiple omics datasets. MOFA infers an interpretable low-dimensional representation in terms of a few latent factors.
+#### [15:00-16:00] Multi-omics factor analysis 
 
-#### shiny-WGCNA
-Weighted correlation network analysis (WGCNA) is a method to identify groups of highly correlated genes and study their relatoinhips to external traits.
+**Instructor: Xiangfu Zhong**
 
-### Teachers
+Multi-omics factor analysis (MOFA) is an unsupervised method to integrate multiple omics datasets. 
+It works by inferring an interpretable low-dimensional representation in terms of a few latent factors.
 
-- Antonio Lentini <a href="https://orcid.org/0000-0003-1239-5495" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Alberto Zenere <a href="https://orcid.org/0000-0001-5791-7686" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Xiangfu Zhong <a href="https://orcid.org/0000-0002-1872-1186" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Jyotirmoy Das <a href="https://orcid.org/0000-0002-5649-4658" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
