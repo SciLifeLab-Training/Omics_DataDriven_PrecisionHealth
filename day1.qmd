@@ -4,28 +4,63 @@ author: "Wen Zhong"
 date: today
 ---
 
+::: {.callout-tip}
 
-### Morning lectures
+### Learning objectives  
+The field of omic data analysis has been rapidly evolving during the last few decades.
+Moreover, the importance of bioinformatics in biomedical research has steadily continued to increase, becoming almost a required skill for any researcher in the field.
+Throughout this module, the students will:
 
-#### Course introduction and omics landscape
-The field of omic data analysis has been rapidly evolving during the last two decades.
-Moreover, the importance of bioinformatics in biomedical research has steadily continued to increase, becoming an almost a required skill for any researcher in the field.
+- Know the landscape of omic technologies
+- Learn which omics may be more suitable for a given research question.
+- Learn how to analyze several types of omics.
+:::
 
-#### Clinical genomisc and Scilifelab facilities
+### Lectures
 
-#### Sequencing technologies
+#### [9:00-9:50] Lecture 1: Course introduction and omics landscape
 
-#### Proteome and metabolome technologies
+**Speaker: Wen Zhong**
+
+Course introduction and a brief overview of the evolution of omics technologies, including sequencing, mass spectrometry, and antibody-based techniques.
 
 
-### Afternoon workshops 
+#### [10:00-10:50] Lecture 2: Cutting-edge technologies in the Swedish molecular diagnostics landscape
 
-#### Omics data, visualization, processing
+**Speaker: Colum Walsh**
 
-#### methylR, completeolink and olinkwrapper
+The facilities and technologies available to researchers in Sweden, including genomics, proteomics, metabolomics, bioimaging, and bioinformatics
 
-### Teachers
 
-- Wen Zhong <a href="https://orcid.org/0000-0002-7422-6104" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Colum Walsh <a href="https://orcid.org/0000-0001-9921-7506" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Jyotirmoy Das <a href="https://orcid.org/0000-0002-5649-4658" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+#### [10:50-11:00] Break
+
+
+#### [11:00-11:30] Lecture 3: Sequencing technologies
+
+**Speaker: Jyotirmoy Das**
+
+Modern high-throughput sequencing techniques, with applications to DNA, RNA and epigenetic sequencing.
+
+
+#### [11:30-12:00] Lecture 4: Proteome and metabolome technologies
+
+**Speaker: Wen Zhong**
+
+Different technolgies that can be used to generate proteomics and metabolomics data, including mass spectrometry, antibody-based (*e.g.*, Olink) and aptamer-based (*e.g.* SOMAScan).
+
+### Workshops 
+
+#### [13:00-16:00] Omics data, visualization, processing
+
+**Instructor: Jyotirmoy Das**
+
+Introduction of omics data and essential steps of processing, analysis, and visualization (epigenetics and proteomics datasets).
+
+
+#### [13:00-16:00 cont.] MethylR, CompleteOlink and OlinkWrapper, shiny-WGCNA
+
+**Instructor: Jyotirmoy Das**
+
+MethylR is an R-based tool designed for the analysis and visualization of DNA methylation data, including differential methylation and functional annotation.  
+CompleteOlink and OlinkWrapper provide streamlined pipelines for processing, quality control, and analysis of Olink proteomics data, enabling efficient handling of large-scale protein expression datasets.  
+Weighted correlation network analysis (WGCNA) is a method to identify groups of highly correlated genes and study their relatoinhips to external traits.
