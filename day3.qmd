@@ -5,39 +5,45 @@ date: today
 ---
 
 ::: {.callout-tip}
-### Summary
-A massive number of tools are available for bioinformatic analyses.
-In this module we will guide the students across the most important categories of analyses that can be performed.
-We will look at classical tools, e.g. linear regression, as well as more recent approaches, e.g. neural networks.
-After this module, the students will:
 
-- Have an overview of the different types of analyses that concern omic data.
-- Be able to perform these analyses on their data.
+### Learning objectives
+
+- Explain the principles, capabilities, and limitations of key AI and machine learning (ML) techniques in biomedical research.
+- Evaluate and select appropriate AI/ML approaches for specific biomedical and precision health applications.
+ 
 :::
 
-## Morning lecture
-The lecture will cover a broad spectrum of analyses applicable to multi-omics data, such as:
+### Lectures
 
-- High-dimensionality reduction techniques.
-- Clustering: supervised and unsupervised.
-- Regression
-- Reinforcement machine learning 
-- Network analysis
-- Generative AI, transfer learning and explainable AI
-During this lecture, we will present what goals we can achieve with these tools, together with their limitations.
+#### [09:00-10:30] Lecture 1: Network medicine tools for data-driven health 
 
-## Afternoon workshop
-During the workshop, we will present the main R/Python packages that can be used to perform the main analyses discussed during the lectures.
-Examples with code will be provided.
+**Speaker: Mika Gustafsson**
 
-## Seminar
-The students will be given a paper on the topic of the module to read, that will be discussed during the seminar.
-Active partcipation during the seminar is a requirement to pass.
+The network models (e.g., deep neural network) and their applications in biomedical research.
 
-## Materials
-A markdown tutorial will be provided before the tutorial.
+#### [10:30-10:45] Break 
 
-## Contributors
+#### [10:45-12:00] Lecture 2: Generative AI for Omics analysis
 
-- Wen Zhong <a href="https://orcid.org/0000-0002-7422-6104" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Xiangyu Qiao <a href="https://https://orcid.org/0009-0007-9515-6241" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+**Speaker: Wen Zhong**
+
+Introduction of machine learning methods, and generative AI (e.g., Transformer) and their application in biomedical research.
+
+ 
+### Workshops
+
+#### [13:00-14:00] Workshop 1: Classical ML methods 
+
+**Workshop instructor: Xingyue Wang**
+
+Common modeling tasks, such as regression, binary classification, and multi-class classification, and the basic pipeline for training and evaluating models.
+
+
+#### [14:00-16:00] Workshop 2: Generative AI models for omics analysis 
+
+**Workshop instructor: Xiangyu Qiao** 
+
+The application of pre-trained generative AI models for the classification of cell types and the identification of cell markers.
+
+
+ 
