@@ -1,0 +1,40 @@
+---
+title: "Day 5: Applications of AI in Clinical & Digital Health"
+author: "Wen Zhong"
+date: today
+---
+
+::: {.callout-tip}
+
+### Learning objectives  
+- Understand real-world applications of AI in clinical and digital health settings.
+- Learn strategies for translating AI research into practical healthcare solutions from an innovation perspective.
+
+:::
+
+### Lectures
+
+#### [09:00-10:30] Lecture 1: Survom’s Multi-Omics AI for Metabolic Dysfunction–Associated Steatotic Liver Disease (MASLD): From Data to Therapies
+
+**Speaker: Vikash Pandey**
+
+The startup, Survom, and AI-driven multi-omics tools, with a case study on MASLD drug-target discovery and non-invasive biomarker identification
+
+#### [10:30-10:45] Break
+
+#### [10:45-12:00] Lecture 2: Building Blocks of Innovation: from research to impact
+
+**Speaker: Ali Moshfegh**
+
+Introduction on how to initiate an innovation project, translating a research study into practical applications.
+
+#### [12:00-13:00] Lunch break
+
+### Afternoon Discussion
+
+#### [13:00-16:00] Group Discussion & Feedback Session
+
+**Discussion host: Alberto Zenere**
+
+Data project grouping and requirements for the final oral presentation will be introduced. Free time for group discussion.
+

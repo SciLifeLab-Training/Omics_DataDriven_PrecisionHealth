@@ -1,0 +1,44 @@
+---
+title: "Day 4: Translational Omics & AI research in precision health"
+author: "Wen Zhong"
+date: today
+---
+
+
+::: {.callout-tip}
+
+### Learning objectives  
+- Understand how AI and ML techniques can be applied in translational omics research.
+- Explore real-world case studies where AI/ML approaches have been used to address challenges in precision health.
+
+:::
+
+
+### Lectures
+
+#### [09:00-10:30] Lecture 1: AI for health introduction
+
+**Speaker: Wen Zhong**
+
+AI and other bioinformatic tools in translational research, especially in precision medicine.
+
+#### [10:30-10:45] Break
+
+#### [10:45-12:00] Lecture 2: From hypothesis to validation: Systems-based tools for omics
+
+**Speaker: Mika Gustafsson**
+
+The application cases of omics and AI techniques in translational research.
+
+
+#### [12:00-13:00] Lunch break
+
+### Seminar
+
+#### [13:00-16:00] AI in Translational Research
+
+**Seminar host: Swapnali Barde**
+
+In the seminar, students will discuss the research topics related to the reading material in groups and prepare 1-2 slides for an oral presentation. The reading material will be released before class.
+
+ 
