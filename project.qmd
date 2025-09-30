@@ -20,7 +20,7 @@ For each dataset, each group can choose **at least 2 omics and a major research 
 
 **Groups**
 
-The students will be divided into 4-5 groups, which will be communicated during the first week of the course. At least 2 groups will work on the same datasets, but might work on different omics.
+The students will be divided into different groups, which will be communicated during the first week of the course. At least 2 groups will work on the same datasets, but might work on different omics.
 
 **Presentations**
 
