@@ -57,7 +57,7 @@ Different technolgies that can be used to generate proteomics and metabolomics d
 Introduction of omics data and essential steps of processing, analysis, and visualization (epigenetics and proteomics datasets).
 
 
-#### [13:00-16:00 cont.] MethylR, CompleteOlink and OlinkWrapper, shiny-WGCNA
+#### [13:00-16:00 cont.] MethylR, CompleteOlink and OlinkWrapper 
 
 **Instructor: Jyotirmoy Das**
 
