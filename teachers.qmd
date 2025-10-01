@@ -74,6 +74,19 @@ In addition to his academic work, he is an entrepreneur and co-founder of SurvOm
 :::
 
 
+#### Ali Moshfegh [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0002-2128-7202)
+##### Senior Coordinator, Linköping, Research and Innovation Support Division (FINA)
+
+::: {.grid}
+::: {.g-col-2}
+![](img/ali.jpeg){width=110}
+:::
+::: {.g-col-10}
+Ali Moshfegh, Innovation Adviser at LiU Innovation, supports students, researchers and employees to commercialize and utilize their ideas, knowledge and scientific results.
+:::
+:::
+
+
 #### Alberto Zenere [![ORCID](img/ORCID_Logomark.png){width=20 height=20}](https://orcid.org/0000-0001-5791-7686)
 ##### Postdoctoral researcher, Linköping, Department of Biomedical and Clinical Sciences (BKV)
 
@@ -165,3 +178,4 @@ In addition to his academic work, he is an entrepreneur and co-founder of SurvOm
 
 
  
+
