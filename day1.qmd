@@ -62,5 +62,4 @@ Introduction of omics data and essential steps of processing, analysis, and visu
 **Instructor: Jyotirmoy Das**
 
 MethylR is an R-based tool designed for the analysis and visualization of DNA methylation data, including differential methylation and functional annotation.  
-CompleteOlink and OlinkWrapper provide streamlined pipelines for processing, quality control, and analysis of Olink proteomics data, enabling efficient handling of large-scale protein expression datasets.  
-Weighted correlation network analysis (WGCNA) is a method to identify groups of highly correlated genes and study their relatoinhips to external traits.
+CompleteOlink and OlinkWrapper provide streamlined pipelines for processing, quality control, and analysis of Olink proteomics data, enabling efficient handling of large-scale protein expression datasets.   
