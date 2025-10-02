@@ -37,7 +37,7 @@ His research bridges molecular biology and health, with a focus that includes th
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/mika.jpg){width=110}
+![](img/Mika.jpg){width=110}
 :::
 ::: {.g-col-10}
 Professor Mika Gustafsson is a leading researcher in bioinformatics at Linköping University, specializing in translational bioinformatics and artificial intelligence. 
@@ -178,4 +178,5 @@ Ali Moshfegh, Innovation Adviser at LiU Innovation, supports students, researche
 
 
  
+
 
