@@ -11,7 +11,7 @@ date: today
 **Organizers:** 	                Linköping University and SciLifeLab  
 **Start date:**	   	                   October 6, 2025  <br>
 **End date:**	   	                   October 24, 2025  <br>
-**Format:**	   	                   In-person (week 41), Online (Friday in week 44)  <br>
+**Format:**	   	                   In-person (week 41), Online (Friday in week 43)  <br>
 **Duration:**	   	                   One week intensive course, a two-week data project  <br>
 **Location:**		 			    Linköping University (Campus US) and Zoom  
 **Suggested number of credits:** 	4.5 hp  
