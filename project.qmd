@@ -6,7 +6,7 @@ date: today
 
 The examination of the course consists of two parts: 
 
-- a **self-reflection** (1000~1500 words) on How does omics data and AI technologies relate to your current or future research project? What opportunities or challenges do you see in applying data-driven or AI/ML methods to your field? (1000 words in length using Word, Times New Roman, size 12)
+- a **self-reflection** (1000 words in length using Word, Times New Roman, size 12) on How do omics data and AI technologies relate to your current or future research project? What opportunities or challenges do you see in applying data-driven or AI/ML methods to your field? 
 - a **group project** on multi omics data, with oral presentation on **24th October 2025**
 
 
