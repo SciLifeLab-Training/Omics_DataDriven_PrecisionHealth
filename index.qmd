@@ -9,9 +9,9 @@ date: today
 ## About
 
 **Organizers:** 	                Linköping University and SciLifeLab  
-**Start date:**	   	                   October 6, 2025  <br>
-**End date:**	   	                   October 24, 2025  <br>
-**Format:**	   	                   In-person (week 41), Online (Friday in week 43)  <br>
+**Start date:**	   	                   March 29, 2027  <br>
+**End date:**	   	                   April 16, 2027  <br>
+**Format:**	   	                   In-person (week 14), Online (Friday in week 16)  <br>
 **Duration:**	   	                   One week intensive course, a two-week data project  <br>
 **Location:**		 			    Linköping University (Campus US) and Zoom  
 **Suggested number of credits:** 	4.5 hp  
@@ -74,7 +74,7 @@ Upon completing the course, students are expected to achieve the following:
 
 ## Forms of instruction and examination  
 
-**Forms of instruction:** In-person (week 41), Online (week 44)  
+**Forms of instruction:** In-person (week 14), Online (week 16)  
 **Forms of study:** Lectures, workshops, seminars, data project  
 **Language:** English      
 **Examination:** The course assessment consists of individual written assignments, a mandatory group project with an oral presentation, and active participation in seminars. Attendance at the presentation session is required for a passing grade. Students who do not achieve a passing grade will be given one opportunity for re-examination shortly after the course ends. Additional examination opportunities will be available during future course offerings. The scope of the re-examination will be the same as that of the original examination.  
