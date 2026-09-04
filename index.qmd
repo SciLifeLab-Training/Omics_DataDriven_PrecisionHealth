@@ -9,8 +9,8 @@ date: today
 ## About
 
 **Organizers:** 	                Linköping University and SciLifeLab  
-**Start date:**	   	                   March 29, 2027  <br>
-**End date:**	   	                   April 16, 2027  <br>
+**Start date:**	   	                   April 5, 2027  <br>
+**End date:**	   	                   April 23, 2027  <br>
 **Format:**	   	                   In-person (week 14), Online (Friday in week 16)  <br>
 **Duration:**	   	                   One week intensive course, a two-week data project  <br>
 **Location:**		 			    Linköping University (Campus US) and Zoom  
